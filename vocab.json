@@ -402,12 +402,6 @@
     "year": "2017"
   },
   {
-    "term": "Flutter",
-    "definition": "An open-source UI software development toolkit created by Google.",
-    "creator": "Google",
-    "year": "2017"
-  },
-  {
     "term": "Fork",
     "definition": "A copy of a repository that allows you to make changes without affecting the original.",
     "creator": "",
@@ -544,12 +538,6 @@
     "definition": "A program that directly executes instructions written in a programming language.",
     "creator": "John McCarthy",
     "year": "1958"
-  },
-  {
-    "term": "Interpreter",
-    "definition": "A program that directly executes instructions written in a programming language.",
-    "creator": "",
-    "year": ""
   },
   {
     "term": "JSON Web Token (JWT)",
@@ -760,12 +748,6 @@
     "definition": "A series of algorithms that attempt to recognize underlying relationships in a set of data.",
     "creator": "Frank Rosenblatt",
     "year": "1958"
-  },
-  {
-    "term": "Next.js",
-    "definition": "A React framework for server-rendered applications.",
-    "creator": "Vercel",
-    "year": "2016"
   },
   {
     "term": "Next.js",
@@ -1281,18 +1263,6 @@
     "term": "WebRTC",
     "definition": "An open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces.",
     "creator": "Google",
-    "year": "2011"
-  },
-  {
-    "term": "WebRTC",
-    "definition": "An open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces.",
-    "creator": "Google",
-    "year": "2011"
-  },
-  {
-    "term": "WebSocket",
-    "definition": "A computer communications protocol, providing full-duplex communication channels over a single TCP connection.",
-    "creator": "IETF",
     "year": "2011"
   },
   {

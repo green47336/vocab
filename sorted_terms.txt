@@ -65,7 +65,6 @@ Firebase
 Flask
 Flatpak
 Flutter
-Flutter
 Fork
 Function
 Functional Programming
@@ -88,7 +87,6 @@ Image (Software)
 Integrated Development Environment (IDE)
 Internet Message Access Protocol (IMAP)
 Internet Protocol (IP)
-Interpreter
 Interpreter
 JSON Web Token (JWT)
 JSX
@@ -125,7 +123,6 @@ MySQL
 NFT
 Natural Language Processing
 Neural Network
-Next.js
 Next.js
 NoSQL
 Node (Software)
@@ -212,8 +209,6 @@ Visual Studio Code
 Vue.js
 WebAssembly
 WebRTC
-WebRTC
-WebSocket
 WebSocket
 Webpack
 XML
