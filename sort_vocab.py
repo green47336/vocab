@@ -32,8 +32,8 @@ if __name__ == "__main__":
     input_file = "vocab.json"
     output_file = "sorted_vocab.json"
 
-    # Specify the field to sort by (e.g., "term", "category", "year")
-    sort_key = "category"
+    # Define the key to sort by
+    sort_key = "term"
 
     # Call the sort function
     sort_vocab(input_file, output_file, sort_key)
