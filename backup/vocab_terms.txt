@@ -1,0 +1,205 @@
+React
+Vue.js
+Angular
+Svelte
+jQuery
+Bootstrap
+Tailwind CSS
+Express.js
+Next.js
+Gatsby
+Nuxt.js
+Electron
+React Native
+Flutter
+SwiftUI
+Android Studio
+Visual Studio Code
+Node.js
+Python
+Django
+Flask
+Java
+Spring
+Ruby
+Ruby on Rails
+PHP
+Laravel
+Go
+Rust
+C#
+Swift
+C++
+C
+Objective-C
+Kotlin
+TypeScript
+Hypertext Markup Language (HTML)
+Cascading Style Sheets (CSS)
+Structured Query Language (SQL)
+NoSQL
+MongoDB
+PostgreSQL
+MySQL
+Redis
+GraphQL
+Representational State Transfer (REST)
+Docker
+Kubernetes
+Amazon Web Services (AWS)
+Azure
+Google Cloud
+Firebase
+WebSocket
+WebRTC
+WebAssembly
+Blockchain
+Bitcoin
+Ethereum
+Solidity
+Smart Contract
+NFT
+Machine Learning
+Large Language Model (LLM)
+Generative Pre-trained Transformer (GPT)
+Natural Language Processing
+Computer Vision
+Generative Adversarial Network
+Convolutional Neural Network
+Transfer Learning
+Gradient Descent
+Reinforcement Learning
+Neural Network
+Deep Learning
+TensorFlow
+Figma
+ES5
+ES6
+ES7
+Babel
+Webpack
+Compiler
+Interpreter
+API
+Machine Code
+Node Package Manager (NPM)
+Yarn
+Node Version Manager (NVM)
+Package
+Method
+Function
+Script
+Daemon
+Snap
+Flatpak
+AppImage
+Transmission Control Protocol (TCP)
+Internet Protocol (IP)
+Domain Name System (DNS)
+Diffusion (AI)
+Hypertext Transfer Protocol Secure (HTTPS)
+Hypertext Transfer Protocol (HTTP)
+File Transfer Protocol (FTP)
+Simple Mail Transfer Protocol (SMTP)
+Post Office Protocol (POP)
+Internet Message Access Protocol (IMAP)
+Secure Sockets Layer (SSL)
+Transport Layer Security (TLS)
+Protocol (Software)
+Git
+Linux
+Unix
+Linux Distribution
+Kernel
+Shell
+Command Line Interface (CLI)
+Graphical User Interface (GUI)
+Integrated Development Environment (IDE)
+Text Editor
+Source Code
+Bytecode
+Assembly Language
+Machine Language
+Debugger
+Version Control
+Repository
+Commit
+Branch
+Merge
+Pull Request
+Fork
+Clone
+Remote
+Local
+Staging Area
+Conflict
+JavaScript Object Notation (JSON)
+Flutter
+Dart
+Bash
+Z Shell (zsh)
+Hook
+Image (Software)
+Tauri
+Binary (Software)
+Chromium
+Material
+Material UI
+Container
+Render (Software)
+Message Queuing Telemetry Transport (MQTT)
+Mosquito
+Qt
+Qt Creator
+Qt Designer
+CMake
+Build System
+Makefile
+CMakeLists.txt
+Dockerfile
+Environment Variable
+Environment
+Garbage Collection
+Next.js
+Vercel
+Server-Side Rendering (SSR)
+Client-Side Rendering (CSR)
+Static Site Generation (SSG)
+Content Delivery Network (CDN)
+Cloudflare
+S3
+K9s
+Cluster
+Node (Software)
+Hydrate (Software)
+Model (Software)
+Virtual Machine (VM)
+Emulation
+Prisma
+Object Relational Mapper (ORM)
+Object Oriented Programming (OOP)
+Functional Programming
+YAML
+Recursion
+React Context
+Redux
+React Query
+Thunk
+Thunk Creator
+Middleware
+Promise
+Reducer
+State
+Props
+Component
+SpringBoot
+x86
+ARM
+RISC-V
+Axios
+Fetch API
+JSX
+TSX
+Service Set Identifier (SSID)
+Basic Service Set Identifier (BSSID)
+MAC Address

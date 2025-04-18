@@ -1,0 +1,92 @@
+{
+  "categories": [
+    {
+      "name": "Programming Languages",
+      "examples": ["Python", "Java", "C++", "Rust", "TypeScript", "Kotlin"]
+    },
+    {
+      "name": "Frameworks and Libraries",
+      "examples": [
+        "React",
+        "Vue.js",
+        "Angular",
+        "Django",
+        "Flask",
+        "Tailwind CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Tools and Utilities",
+      "examples": ["Webpack", "Babel", "Docker", "CMake", "Git", "NPM", "Yarn"]
+    },
+    {
+      "name": "Protocols and Networking",
+      "examples": ["HTTP", "HTTPS", "WebSocket", "MQTT", "DNS", "TCP", "IP"]
+    },
+    {
+      "name": "Data Formats and Serialization",
+      "examples": ["JSON", "YAML", "XML"]
+    },
+    {
+      "name": "Architectures and Platforms",
+      "examples": ["x86", "ARM", "RISC-V", "Kubernetes", "AWS", "Azure"]
+    },
+    {
+      "name": "Artificial Intelligence and Machine Learning",
+      "examples": [
+        "Neural Network",
+        "Deep Learning",
+        "Gradient Descent",
+        "Reinforcement Learning"
+      ]
+    },
+    {
+      "name": "Software Development Concepts",
+      "examples": [
+        "API",
+        "Middleware",
+        "State",
+        "Reducer",
+        "Component",
+        "Props"
+      ]
+    },
+    {
+      "name": "Version Control and Collaboration",
+      "examples": ["Git", "Repository", "Branch", "Merge", "Pull Request"]
+    },
+    {
+      "name": "Operating Systems and Environments",
+      "examples": ["Linux", "Unix", "Virtual Machine", "Shell", "Kernel"]
+    },
+    {
+      "name": "Design and User Interfaces",
+      "examples": ["Material Design", "Figma", "Graphical User Interface (GUI)"]
+    },
+    {
+      "name": "Databases and Storage",
+      "examples": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "S3"]
+    },
+    {
+      "name": "Security and Cryptography",
+      "examples": ["SSL", "TLS", "Blockchain", "Bitcoin", "Ethereum"]
+    },
+    {
+      "name": "Build Systems and Automation",
+      "examples": ["Makefile", "Dockerfile", "Build System", "CMakeLists.txt"]
+    },
+    {
+      "name": "Networking Identifiers",
+      "examples": ["SSID", "BSSID", "MAC Address"]
+    },
+    {
+      "name": "Rendering and Web Development",
+      "examples": [
+        "Server-Side Rendering (SSR)",
+        "Client-Side Rendering (CSR)",
+        "Static Site Generation (SSG)"
+      ]
+    }
+  ]
+}

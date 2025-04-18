@@ -1,63 +1,63 @@
 [
   {
     "term": "React",
-    "category": "Frameworks and Libraries",
+    "category": "Library",
     "definition": "A JavaScript library for building user interfaces.",
     "creator": "Facebook",
     "year": "2013"
   },
   {
     "term": "Vue.js",
-    "category": "Frameworks and Libraries",
+    "category": "Framework",
     "definition": "A progressive JavaScript framework for building user interfaces.",
     "creator": "Evan You",
     "year": "2014"
   },
   {
     "term": "Angular",
-    "category": "Frameworks and Libraries",
+    "category": "Framework",
     "definition": "A platform for building mobile and desktop web applications.",
     "creator": "Google",
     "year": "2010"
   },
   {
     "term": "Svelte",
-    "category": "Frameworks and Libraries",
+    "category": "Framework",
     "definition": "A modern JavaScript framework for building user interfaces.",
     "creator": "Rich Harris",
     "year": "2016"
   },
   {
     "term": "jQuery",
-    "category": "Frameworks and Libraries",
+    "category": "Library",
     "definition": "A fast, small, and feature-rich JavaScript library.",
     "creator": "John Resig",
     "year": "2006"
   },
   {
     "term": "Bootstrap",
-    "category": "Frameworks and Libraries",
+    "category": "Framework",
     "definition": "A front-end framework for developing responsive and mobile-first websites.",
     "creator": "Twitter",
     "year": "2011"
   },
   {
     "term": "Tailwind CSS",
-    "category": "Frameworks and Libraries",
+    "category": "Framework",
     "definition": "A utility-first CSS framework for creating custom designs.",
     "creator": "Adam Wathan and Steve Schoger",
     "year": "2017"
   },
   {
     "term": "Express.js",
-    "category": "Frameworks and Libraries",
+    "category": "Framework",
     "definition": "A minimal and flexible Node.js web application framework.",
     "creator": "TJ Holowaychuk",
     "year": "2010"
   },
   {
     "term": "Next.js",
-    "category": "Frameworks and Libraries",
+    "category": "Framework",
     "definition": "A React framework for server-rendered applications.",
     "creator": "Vercel",
     "year": "2016"
@@ -127,28 +127,28 @@
   },
   {
     "term": "Python",
-    "category": "Programming Languages",
+    "category": "Language",
     "definition": "A high-level programming language known for its readability and simplicity.",
     "creator": "Guido van Rossum",
     "year": "1991"
   },
   {
     "term": "Django",
-    "category": "Frameworks and Libraries",
+    "category": "Framework",
     "definition": "A high-level Python web framework that encourages rapid development.",
     "creator": "Adrian Holovaty and Simon Willison",
     "year": "2005"
   },
   {
     "term": "Flask",
-    "category": "Frameworks and Libraries",
+    "category": "Microframework",
     "definition": "A lightweight WSGI web application framework in Python.",
     "creator": "Armin Ronacher",
     "year": "2010"
   },
   {
     "term": "Java",
-    "category": "Programming Languages",
+    "category": "Language",
     "definition": "A high-level, class-based, object-oriented programming language.",
     "creator": "James Gosling",
     "year": "1995"
@@ -197,7 +197,7 @@
   },
   {
     "term": "Rust",
-    "category": "Programming Languages",
+    "category": "Language",
     "definition": "A systems programming language focused on safety, speed, and concurrency.",
     "creator": "Graydon Hoare",
     "year": "2010"
@@ -218,7 +218,7 @@
   },
   {
     "term": "C++",
-    "category": "Programming Languages",
+    "category": "Language",
     "definition": "A general-purpose programming language created as an extension of the C programming language.",
     "creator": "Bjarne Stroustrup",
     "year": "1985"
@@ -239,14 +239,14 @@
   },
   {
     "term": "Kotlin",
-    "category": "Programming Languages",
+    "category": "Language",
     "definition": "A modern programming language that makes developers happier.",
     "creator": "JetBrains",
     "year": "2011"
   },
   {
     "term": "TypeScript",
-    "category": "Programming Languages",
+    "category": "Language",
     "definition": "A strict syntactical superset of JavaScript that adds optional static typing.",
     "creator": "Microsoft",
     "year": "2012"
@@ -262,7 +262,7 @@
     "term": "Cascading Style Sheets (CSS)",
     "category": "Style Sheet Language",
     "definition": "A style sheet language used for describing the presentation of a document written in HTML or XML.",
-    "creator": "H\u00e5kon Wium Lie and Bert Bos",
+    "creator": "Håkon Wium Lie and Bert Bos",
     "year": "1996"
   },
   {
@@ -281,28 +281,28 @@
   },
   {
     "term": "MongoDB",
-    "category": "Databases and Storage",
+    "category": "Database",
     "definition": "A document-oriented NoSQL database used for high volume data storage.",
     "creator": "Dwight Merriman, Eliot Horowitz, and Kevin Ryan",
     "year": "2007"
   },
   {
     "term": "PostgreSQL",
-    "category": "Databases and Storage",
+    "category": "Database",
     "definition": "An open-source relational database management system emphasizing extensibility and SQL compliance.",
     "creator": "Michael Stonebraker",
     "year": "1986"
   },
   {
     "term": "MySQL",
-    "category": "Databases and Storage",
+    "category": "Database",
     "definition": "An open-source relational database management system based on SQL.",
     "creator": "Michael 'Monty' Widenius",
     "year": "1995"
   },
   {
     "term": "Redis",
-    "category": "Databases and Storage",
+    "category": "Database",
     "definition": "An open-source, in-memory data structure store, used as a database, cache, and message broker.",
     "creator": "Salvatore Sanfilippo",
     "year": "2009"
@@ -323,14 +323,14 @@
   },
   {
     "term": "Docker",
-    "category": "Tools and Utilities",
+    "category": "Platform",
     "definition": "A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.",
     "creator": "Solomon Hykes",
     "year": "2013"
   },
   {
     "term": "Kubernetes",
-    "category": "Architectures and Platforms",
+    "category": "Container Orchestrator",
     "definition": "An open-source system for automating the deployment, scaling, and management of containerized applications.",
     "creator": "Google",
     "year": "2014"
@@ -344,7 +344,7 @@
   },
   {
     "term": "Azure",
-    "category": "Architectures and Platforms",
+    "category": "Cloud Platform",
     "definition": "A cloud computing service created by Microsoft for building, testing, deploying, and managing applications.",
     "creator": "Microsoft",
     "year": "2010"
@@ -365,7 +365,7 @@
   },
   {
     "term": "WebSocket",
-    "category": "Protocols and Networking",
+    "category": "Protocol",
     "definition": "A computer communications protocol, providing full-duplex communication channels over a single TCP connection.",
     "creator": "IETF",
     "year": "2011"
@@ -386,21 +386,21 @@
   },
   {
     "term": "Blockchain",
-    "category": "Security and Cryptography",
+    "category": "Distributed Ledger",
     "definition": "A decentralized digital ledger that records transactions across many computers.",
     "creator": "Satoshi Nakamoto (Psuedonym, Attributed)",
     "year": "2008"
   },
   {
     "term": "Bitcoin",
-    "category": "Security and Cryptography",
+    "category": "Cryptocurrency",
     "definition": "A decentralized digital currency without a central bank or single administrator.",
     "creator": "Satoshi Nakamoto (Pseudonym)",
     "year": "2009"
   },
   {
     "term": "Ethereum",
-    "category": "Security and Cryptography",
+    "category": "Blockchain Platform",
     "definition": "A decentralized platform that enables smart contracts and decentralized applications to be built and run without any downtime.",
     "creator": "Vitalik Buterin",
     "year": "2015"
@@ -484,28 +484,28 @@
   },
   {
     "term": "Gradient Descent",
-    "category": "Artificial Intelligence and Machine Learning",
+    "category": "Optimization Algorithm",
     "definition": "An iterative optimization algorithm used to minimize a function by adjusting parameters in the opposite direction of the gradient.",
     "creator": "Augustin-Louis Cauchy",
     "year": "1847"
   },
   {
     "term": "Reinforcement Learning",
-    "category": "Artificial Intelligence and Machine Learning",
+    "category": "Field",
     "definition": "An area of machine learning concerned with how software agents ought to take actions in an environment to maximize some notion of cumulative reward.",
     "creator": "Richard Sutton and Andrew Barto",
     "year": "1998"
   },
   {
     "term": "Neural Network",
-    "category": "Artificial Intelligence and Machine Learning",
+    "category": "Model",
     "definition": "A series of algorithms that attempt to recognize underlying relationships in a set of data.",
     "creator": "Frank Rosenblatt",
     "year": "1958"
   },
   {
     "term": "Deep Learning",
-    "category": "Artificial Intelligence and Machine Learning",
+    "category": "Subset",
     "definition": "A subset of machine learning that uses neural networks with many layers.",
     "creator": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio",
     "year": "2006"
@@ -519,7 +519,7 @@
   },
   {
     "term": "Figma",
-    "category": "Design and User Interfaces",
+    "category": "Design Tool",
     "definition": "A web-based UI/UX design application.",
     "creator": "Dylan Field and Evan Wallace",
     "year": "2012"
@@ -547,14 +547,14 @@
   },
   {
     "term": "Babel",
-    "category": "Tools and Utilities",
+    "category": "Transpiler",
     "definition": "A JavaScript compiler that allows you to use next generation JavaScript, today.",
     "creator": "Sebastian McKenzie",
     "year": "2014"
   },
   {
     "term": "Webpack",
-    "category": "Tools and Utilities",
+    "category": "Module Bundler",
     "definition": "A static module bundler for modern JavaScript applications.",
     "creator": "Tobias Koppers",
     "year": "2012"
@@ -575,7 +575,7 @@
   },
   {
     "term": "API",
-    "category": "Software Development Concepts",
+    "category": "Interface",
     "definition": "An application programming interface is a set of routines, protocols, and tools for building software and applications.",
     "creator": "Roy Fielding",
     "year": "2000"
@@ -596,7 +596,7 @@
   },
   {
     "term": "Yarn",
-    "category": "Tools and Utilities",
+    "category": "Package Manager",
     "definition": "A package manager for JavaScript that is fast, reliable, and secure.",
     "creator": "Facebook",
     "year": "2016"
@@ -757,21 +757,21 @@
   },
   {
     "term": "Git",
-    "category": "Version Control and Collaboration",
+    "category": "Version Control System",
     "definition": "A distributed version control system for tracking changes in source code during software development.",
     "creator": "Linus Torvalds",
     "year": "2005"
   },
   {
     "term": "Linux",
-    "category": "Operating Systems and Environments",
+    "category": "Operating System",
     "definition": "A family of open-source Unix-like operating systems based on the Linux kernel.",
     "creator": "Linus Torvalds",
     "year": "1991"
   },
   {
     "term": "Unix",
-    "category": "Operating Systems and Environments",
+    "category": "Operating System",
     "definition": "A family of multitasking, multiuser computer operating systems.",
     "creator": "Ken Thompson, Dennis Ritchie, and others",
     "year": "1969"
@@ -785,14 +785,14 @@
   },
   {
     "term": "Kernel",
-    "category": "Operating Systems and Environments",
+    "category": "Core Component",
     "definition": "The core component of an operating system that manages system resources and communication between hardware and software.",
     "creator": "",
     "year": ""
   },
   {
     "term": "Shell",
-    "category": "Operating Systems and Environments",
+    "category": "Command Line Interface",
     "definition": "A user interface for access to an operating system's services.",
     "creator": "",
     "year": ""
@@ -806,7 +806,7 @@
   },
   {
     "term": "Graphical User Interface (GUI)",
-    "category": "Design and User Interfaces",
+    "category": "Interface",
     "definition": "A visual way to interact with a computer program using graphical elements.",
     "creator": "",
     "year": ""
@@ -876,7 +876,7 @@
   },
   {
     "term": "Repository",
-    "category": "Version Control and Collaboration",
+    "category": "Storage Location",
     "definition": "A storage location for software packages, code, or data.",
     "creator": "",
     "year": ""
@@ -890,21 +890,21 @@
   },
   {
     "term": "Branch",
-    "category": "Version Control and Collaboration",
+    "category": "Version",
     "definition": "A version of a repository that diverges from the main line of development.",
     "creator": "",
     "year": ""
   },
   {
     "term": "Merge",
-    "category": "Version Control and Collaboration",
+    "category": "Operation",
     "definition": "An operation that combines changes from different branches in a version control system.",
     "creator": "",
     "year": ""
   },
   {
     "term": "Pull Request",
-    "category": "Version Control and Collaboration",
+    "category": "Request",
     "definition": "A request to merge changes from one branch into another in a version control system.",
     "creator": "",
     "year": ""
@@ -1065,7 +1065,7 @@
   },
   {
     "term": "WebSocket",
-    "category": "Protocols and Networking",
+    "category": "Protocol",
     "definition": "A computer communications protocol, providing full-duplex communication channels over a single TCP connection.",
     "creator": "IETF",
     "year": "2011"
@@ -1100,35 +1100,35 @@
   },
   {
     "term": "CMake",
-    "category": "Tools and Utilities",
+    "category": "Build System",
     "definition": "A cross-platform free and open-source software for managing the build process of software using a compiler-independent method.",
     "creator": "Kitware",
     "year": "2000"
   },
   {
     "term": "Build System",
-    "category": "Build Systems and Automation",
+    "category": "System",
     "definition": "A system that automates the process of building software.",
     "creator": "",
     "year": ""
   },
   {
     "term": "Makefile",
-    "category": "Build Systems and Automation",
+    "category": "File",
     "definition": "A file containing a set of directives used with the make build automation tool to generate a target/goal.",
     "creator": "Stuart Feldman",
     "year": "1976"
   },
   {
     "term": "CMakeLists.txt",
-    "category": "Build Systems and Automation",
+    "category": "File",
     "definition": "A file used by CMake to configure the build process.",
     "creator": "",
     "year": ""
   },
   {
     "term": "Dockerfile",
-    "category": "Build Systems and Automation",
+    "category": "File",
     "definition": "A text document that contains all the commands to assemble an image.",
     "creator": "",
     "year": ""
@@ -1170,21 +1170,21 @@
   },
   {
     "term": "Server-Side Rendering (SSR)",
-    "category": "Rendering and Web Development",
+    "category": "Rendering Method",
     "definition": "A method of rendering web pages on the server instead of in the browser.",
     "creator": "",
     "year": ""
   },
   {
     "term": "Client-Side Rendering (CSR)",
-    "category": "Rendering and Web Development",
+    "category": "Rendering Method",
     "definition": "A method of rendering web pages in the browser instead of on the server.",
     "creator": "",
     "year": ""
   },
   {
     "term": "Static Site Generation (SSG)",
-    "category": "Rendering and Web Development",
+    "category": "Rendering Method",
     "definition": "A method of generating static HTML pages at build time.",
     "creator": "",
     "year": ""
@@ -1205,7 +1205,7 @@
   },
   {
     "term": "S3",
-    "category": "Databases and Storage",
+    "category": "Storage Service",
     "definition": "Amazon Simple Storage Service, an object storage service offered by Amazon Web Services.",
     "creator": "Amazon",
     "year": "2006"
@@ -1280,6 +1280,7 @@
     "creator": "Alan Kay",
     "year": "1966"
   },
+
   {
     "term": "Functional Programming",
     "category": "Programming Paradigm",
@@ -1289,9 +1290,9 @@
   },
   {
     "term": "YAML",
-    "category": "Data Formats and Serialization",
+    "category": "Data Serialization Format",
     "definition": "YAML Ain't Markup Language, a human-readable data serialization format.",
-    "creator": "Clark Evans, Ingy d\u00f6t Net, and Oren Ben-Kiki",
+    "creator": "Clark Evans, Ingy döt Net, and Oren Ben-Kiki",
     "year": "2001"
   },
   {
@@ -1338,7 +1339,7 @@
   },
   {
     "term": "Middleware",
-    "category": "Software Development Concepts",
+    "category": "Software",
     "definition": "Software that acts as a bridge between an operating system or database and applications, especially on a network.",
     "creator": "",
     "year": ""
@@ -1352,28 +1353,28 @@
   },
   {
     "term": "Reducer",
-    "category": "Software Development Concepts",
+    "category": "Function",
     "definition": "A function that takes the current state and an action as arguments and returns a new state.",
     "creator": "",
     "year": ""
   },
   {
     "term": "State",
-    "category": "Software Development Concepts",
+    "category": "Data",
     "definition": "The data that represents the current condition of an application.",
     "creator": "",
     "year": ""
   },
   {
     "term": "Props",
-    "category": "Software Development Concepts",
+    "category": "Properties",
     "definition": "Short for properties, props are a way of passing data from parent to child components in React.",
     "creator": "",
     "year": ""
   },
   {
     "term": "Component",
-    "category": "Software Development Concepts",
+    "category": "Building Block",
     "definition": "A reusable piece of code that represents a part of the user interface in a React application.",
     "creator": "",
     "year": ""
@@ -1387,21 +1388,21 @@
   },
   {
     "term": "x86",
-    "category": "Architectures and Platforms",
+    "category": "Architecture",
     "definition": "A family of instruction set architectures based on the Intel 8086 microprocessor.",
     "creator": "Intel",
     "year": "1978"
   },
   {
     "term": "ARM",
-    "category": "Architectures and Platforms",
+    "category": "Architecture",
     "definition": "A family of computer processors that use a reduced instruction set computing (RISC) architecture.",
     "creator": "Acorn Computers",
     "year": "1983"
   },
   {
     "term": "RISC-V",
-    "category": "Architectures and Platforms",
+    "category": "Architecture",
     "definition": "An open standard instruction set architecture based on established reduced instruction set computing principles.",
     "creator": "RISC-V Foundation",
     "year": "2010"
@@ -1450,7 +1451,7 @@
   },
   {
     "term": "MAC Address",
-    "category": "Networking Identifiers",
+    "category": "Network Identifier",
     "definition": "A unique identifier assigned to network interfaces for communications on the physical network segment.",
     "creator": "Institute of Electrical and Electronics Engineers (IEEE)",
     "year": "1980"
