@@ -154,13 +154,6 @@
     "year": "1985"
   },
   {
-    "term": "CLI",
-    "noun": "Interface",
-    "definition": "Command Line Interface, a way to interact with a computer program by typing commands into a console or terminal.",
-    "creator": "",
-    "year": ""
-  },
-  {
     "term": "CMake",
     "noun": "Build System",
     "definition": "A cross-platform free and open-source software for managing the build process of software using a compiler-independent method.",
@@ -213,6 +206,13 @@
     "term": "Cluster",
     "noun": "Group of Nodes",
     "definition": "A group of nodes that work together to run applications and services.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Command Line Interface (CLI)",
+    "noun": "Interface",
+    "definition": "A way to interact with a computer program by typing commands into a console or terminal.",
     "creator": "",
     "year": ""
   },
