@@ -238,13 +238,6 @@
     "year": "1984"
   },
   {
-    "term": "Swift",
-    "noun": "Language",
-    "definition": "A powerful and intuitive programming language for iOS, macOS, watchOS, and tvOS.",
-    "creator": "Apple",
-    "year": "2014"
-  },
-  {
     "term": "Kotlin",
     "noun": "Language",
     "definition": "A modern programming language that makes developers happier.",
@@ -259,21 +252,21 @@
     "year": "2012"
   },
   {
-    "term": "HTML",
+    "term": "Hypertext Markup Language (HTML)",
     "noun": "Markup Language",
     "definition": "The standard markup language for documents designed to be displayed in a web browser.",
     "creator": "Tim Berners-Lee",
     "year": "1993"
   },
   {
-    "term": "CSS",
+    "term": "Cascading Style Sheets (CSS)",
     "noun": "Style Sheet Language",
     "definition": "A style sheet language used for describing the presentation of a document written in HTML or XML.",
     "creator": "Håkon Wium Lie and Bert Bos",
     "year": "1996"
   },
   {
-    "term": "SQL",
+    "term": "Structured Query Language (SQL)",
     "noun": "Language",
     "definition": "A domain-specific language used in programming and managing relational databases.",
     "creator": "Donald D. Chamberlin and Raymond F. Boyce",
@@ -322,7 +315,7 @@
     "year": "2012"
   },
   {
-    "term": "REST",
+    "term": "Representational State Transfer (REST)",
     "noun": "Architectural Style",
     "definition": "An architectural style for designing networked applications.",
     "creator": "Roy Fielding",
@@ -343,7 +336,7 @@
     "year": "2014"
   },
   {
-    "term": "AWS",
+    "term": "Amazon Web Services (AWS)",
     "noun": "Cloud Platform",
     "definition": "A subsidiary of Amazon providing on-demand cloud computing platforms and APIs.",
     "creator": "Amazon",
@@ -441,16 +434,16 @@
     "year": "1959"
   },
   {
-    "term": "LLM",
+    "term": "Large Language Model (LLM)",
     "noun": "Model",
-    "definition": "A large language model is a type of artificial intelligence that uses deep learning to understand and generate human language.",
+    "definition": "A type of artificial intelligence that uses deep learning to understand and generate human language.",
     "creator": "OpenAI",
     "year": "2020"
   },
   {
-    "term": "GPT",
+    "term": "Generative Pre-trained Transformer (GPT)",
     "noun": "Model",
-    "definition": "Generative Pre-trained Transformer, a type of large language model developed by OpenAI.",
+    "definition": "A type of large language model developed by OpenAI.",
     "creator": "OpenAI",
     "year": "2018"
   },
@@ -546,6 +539,13 @@
     "year": "2015"
   },
   {
+    "term": "ES7",
+    "noun": "JavaScript Version",
+    "definition": "The seventh edition of the ECMAScript Language Specification.",
+    "creator": "ECMA International",
+    "year": "2016"
+  },
+  {
     "term": "Babel",
     "noun": "Transpiler",
     "definition": "A JavaScript compiler that allows you to use next generation JavaScript, today.",
@@ -588,7 +588,7 @@
     "year": "1945"
   },
   {
-    "term": "npm",
+    "term": "Node Package Manager (NPM)",
     "noun": "Package Manager",
     "definition": "A package manager for JavaScript, allowing you to install and manage packages.",
     "creator": "Isaac Z. Schlueter",
@@ -602,7 +602,7 @@
     "year": "2016"
   },
   {
-    "term": "nvm",
+    "term": "Node Version Manager (NVM)",
     "noun": "Version Manager",
     "definition": "A version manager for Node.js, allowing you to manage multiple versions of Node.js.",
     "creator": "Tim Caswell",
@@ -665,16 +665,23 @@
     "year": ""
   },
   {
-    "term": "TCP",
+    "term": "Transmission Control Protocol (TCP)",
     "noun": "Protocol",
-    "definition": "Transmission Control Protocol, a core protocol of the Internet Protocol Suite.",
+    "definition": "A core protocol of the Internet Protocol Suite.",
     "creator": "Vint Cerf and Bob Kahn",
     "year": "1974"
   },
   {
-    "term": "DNS",
+    "term": "Internet Protocol (IP)",
+    "noun": "Protocol",
+    "definition": "The principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries.",
+    "creator": "Vint Cerf and Bob Kahn",
+    "year": "1974"
+  },
+  {
+    "term": "Domain Name System (DNS)",
     "noun": "System",
-    "definition": "Domain Name System, a hierarchical and decentralized naming system for computers, services, or any resource connected to the Internet.",
+    "definition": "A hierarchical and decentralized naming system for computers, services, or any resource connected to the Internet.",
     "creator": "Paul Mockapetris",
     "year": "1983"
   },
@@ -686,18 +693,60 @@
     "year": ""
   },
   {
-    "term": "HTTPS",
+    "term": "Hypertext Transfer Protocol Secure (HTTPS)",
     "noun": "Protocol",
-    "definition": "Hypertext Transfer Protocol Secure, an extension of HTTP that uses SSL/TLS to provide secure communication.",
+    "definition": "An extension of HTTP that uses SSL/TLS to provide secure communication.",
     "creator": "Tim Berners-Lee",
     "year": "1994"
   },
   {
-    "term": "HTTP",
+    "term": "Hypertext Transfer Protocol (HTTP)",
     "noun": "Protocol",
-    "definition": "Hypertext Transfer Protocol, an application protocol for distributed, collaborative, hypermedia information systems.",
+    "definition": "An application protocol for distributed, collaborative, hypermedia information systems.",
     "creator": "Tim Berners-Lee",
     "year": "1991"
+  },
+  {
+    "term": "File Transfer Protocol (FTP)",
+    "noun": "Protocol",
+    "definition": "A standard network protocol used to transfer files from one host to another over a TCP-based network.",
+    "creator": "Abhay Bhushan",
+    "year": "1971"
+  },
+  {
+    "term": "Simple Mail Transfer Protocol (SMTP)",
+    "noun": "Protocol",
+    "definition": "An Internet standard for email transmission.",
+    "creator": "Jon Postel",
+    "year": "1982"
+  },
+  {
+    "term": "Post Office Protocol (POP)",
+    "noun": "Protocol",
+    "definition": "A protocol for receiving email by downloading it to your computer.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Internet Message Access Protocol (IMAP)",
+    "noun": "Protocol",
+    "definition": "A protocol for accessing email on a remote web server from a local client.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Secure Sockets Layer (SSL)",
+    "noun": "Protocol",
+    "definition": "A standard security technology for establishing an encrypted link between a server and a client.",
+    "creator": "Netscape",
+    "year": "1994"
+  },
+  {
+    "term": "Transport Layer Security (TLS)",
+    "noun": "Protocol",
+    "definition": "A cryptographic protocol designed to provide communications security over a computer network.",
+    "creator": "",
+    "year": ""
   },
   {
     "term": "Protocol (Software)",
@@ -756,16 +805,58 @@
     "year": ""
   },
   {
-    "term": "GUI",
+    "term": "Graphical User Interface (GUI)",
     "noun": "Interface",
-    "definition": "Graphical User Interface, a visual way to interact with a computer program using graphical elements.",
+    "definition": "A visual way to interact with a computer program using graphical elements.",
     "creator": "",
     "year": ""
   },
   {
-    "term": "IDE",
-    "noun": "Development Environment",
-    "definition": "Integrated Development Environment, a software application that provides comprehensive facilities to programmers for software development.",
+    "term": "Integrated Development Environment (IDE)",
+    "noun": "Software Application",
+    "definition": "A software application that provides comprehensive facilities to programmers for software development.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Text Editor",
+    "noun": "Software Application",
+    "definition": "A type of computer program that edits plain text.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Source Code",
+    "noun": "Code",
+    "definition": "The human-readable instructions that a programmer writes in a programming language.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Bytecode",
+    "noun": "Intermediate Code",
+    "definition": "A form of instruction set designed for efficient execution by a software interpreter.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Assembly Language",
+    "noun": "Low-Level Language",
+    "definition": "A low-level programming language that is closely related to machine code.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Machine Language",
+    "noun": "Low-Level Language",
+    "definition": "The lowest-level programming language, consisting of binary code that the computer's CPU can directly execute.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Interpreter",
+    "noun": "Program",
+    "definition": "A program that directly executes instructions written in a programming language.",
     "creator": "",
     "year": ""
   },
@@ -861,9 +952,9 @@
     "year": ""
   },
   {
-    "term": "JSON",
+    "term": "JavaScript Object Notation (JSON)",
     "noun": "Data Format",
-    "definition": "JavaScript Object Notation, a lightweight data interchange format that is easy for humans to read and write.",
+    "definition": "A lightweight data interchange format that is easy for humans to read and write.",
     "creator": "Douglas Crockford",
     "year": "2001"
   },
@@ -889,9 +980,9 @@
     "year": "1987"
   },
   {
-    "term": "Zsh",
+    "term": "Z Shell (zsh)",
     "noun": "Shell",
-    "definition": "Z shell. An extended Bourne shell with many improvements.",
+    "definition": "An extended Bourne shell with many improvements.",
     "creator": "Paul Falstad",
     "year": "1990"
   },
@@ -959,9 +1050,9 @@
     "year": ""
   },
   {
-    "term": "MQTT",
+    "term": "Message Queuing Telemetry Transport (MQTT)",
     "noun": "Protocol",
-    "definition": "Message Queuing Telemetry Transport, a lightweight messaging protocol for small sensors and mobile devices optimized for high-latency or unreliable networks.",
+    "definition": "A lightweight messaging protocol for small sensors and mobile devices optimized for high-latency or unreliable networks.",
     "creator": "Andy Stanford-Clark and Arlen Nipper",
     "year": "1999"
   },
@@ -1043,13 +1134,6 @@
     "year": ""
   },
   {
-    "term": ".env",
-    "noun": "File",
-    "definition": "A file used to set environment variables for a project.",
-    "creator": "",
-    "year": ""
-  },
-  {
     "term": "Environment Variable",
     "noun": "Variable",
     "definition": "A variable outside of the program that can affect the behavior of the program.",
@@ -1085,30 +1169,30 @@
     "year": "2016"
   },
   {
-    "term": "SSR",
+    "term": "Server-Side Rendering (SSR)",
     "noun": "Rendering Method",
-    "definition": "Server-Side Rendering, a method of rendering web pages on the server instead of in the browser.",
+    "definition": "A method of rendering web pages on the server instead of in the browser.",
     "creator": "",
     "year": ""
   },
   {
-    "term": "CSR",
+    "term": "Client-Side Rendering (CSR)",
     "noun": "Rendering Method",
-    "definition": "Client-Side Rendering, a method of rendering web pages in the browser instead of on the server.",
+    "definition": "A method of rendering web pages in the browser instead of on the server.",
     "creator": "",
     "year": ""
   },
   {
-    "term": "SSG",
+    "term": "Static Site Generation (SSG)",
     "noun": "Rendering Method",
-    "definition": "Static Site Generation, a method of generating static HTML pages at build time.",
+    "definition": "A method of generating static HTML pages at build time.",
     "creator": "",
     "year": ""
   },
   {
-    "term": "CDN",
+    "term": "Content Delivery Network (CDN)",
     "noun": "Network",
-    "definition": "Content Delivery Network, a system of distributed servers that deliver web content to users based on their geographic location.",
+    "definition": "A system of distributed servers that deliver web content to users based on their geographic location.",
     "creator": "",
     "year": ""
   },
