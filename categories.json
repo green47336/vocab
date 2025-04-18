@@ -1,92 +1,152 @@
 {
-  "categories": [
-    {
-      "name": "Programming Languages",
-      "examples": ["Python", "Java", "C++", "Rust", "TypeScript", "Kotlin"]
-    },
-    {
-      "name": "Frameworks and Libraries",
-      "examples": [
-        "React",
-        "Vue.js",
-        "Angular",
-        "Django",
-        "Flask",
-        "Tailwind CSS",
-        "Bootstrap"
-      ]
-    },
-    {
-      "name": "Tools and Utilities",
-      "examples": ["Webpack", "Babel", "Docker", "CMake", "Git", "NPM", "Yarn"]
-    },
-    {
-      "name": "Protocols and Networking",
-      "examples": ["HTTP", "HTTPS", "WebSocket", "MQTT", "DNS", "TCP", "IP"]
-    },
-    {
-      "name": "Data Formats and Serialization",
-      "examples": ["JSON", "YAML", "XML"]
-    },
-    {
-      "name": "Architectures and Platforms",
-      "examples": ["x86", "ARM", "RISC-V", "Kubernetes", "AWS", "Azure"]
-    },
-    {
-      "name": "Artificial Intelligence and Machine Learning",
-      "examples": [
-        "Neural Network",
-        "Deep Learning",
-        "Gradient Descent",
-        "Reinforcement Learning"
-      ]
-    },
-    {
-      "name": "Software Development Concepts",
-      "examples": [
-        "API",
-        "Middleware",
-        "State",
-        "Reducer",
-        "Component",
-        "Props"
-      ]
-    },
-    {
-      "name": "Version Control and Collaboration",
-      "examples": ["Git", "Repository", "Branch", "Merge", "Pull Request"]
-    },
-    {
-      "name": "Operating Systems and Environments",
-      "examples": ["Linux", "Unix", "Virtual Machine", "Shell", "Kernel"]
-    },
-    {
-      "name": "Design and User Interfaces",
-      "examples": ["Material Design", "Figma", "Graphical User Interface (GUI)"]
-    },
-    {
-      "name": "Databases and Storage",
-      "examples": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "S3"]
-    },
-    {
-      "name": "Security and Cryptography",
-      "examples": ["SSL", "TLS", "Blockchain", "Bitcoin", "Ethereum"]
-    },
-    {
-      "name": "Build Systems and Automation",
-      "examples": ["Makefile", "Dockerfile", "Build System", "CMakeLists.txt"]
-    },
-    {
-      "name": "Networking Identifiers",
-      "examples": ["SSID", "BSSID", "MAC Address"]
-    },
-    {
-      "name": "Rendering and Web Development",
-      "examples": [
-        "Server-Side Rendering (SSR)",
-        "Client-Side Rendering (CSR)",
-        "Static Site Generation (SSG)"
-      ]
-    }
+  "Programming and Scripting Languages": [
+    "Python",
+    "Java",
+    "Ruby",
+    "PHP",
+    "Go",
+    "Rust",
+    "C#",
+    "Swift",
+    "C++",
+    "C",
+    "Objective-C",
+    "Kotlin",
+    "TypeScript",
+    "Dart"
+  ],
+  "Frameworks and Libraries": [
+    "React",
+    "Vue.js",
+    "Angular",
+    "Svelte",
+    "jQuery",
+    "Bootstrap",
+    "Tailwind CSS",
+    "Express.js",
+    "Next.js",
+    "Gatsby",
+    "Nuxt.js",
+    "Electron",
+    "React Native",
+    "Flutter",
+    "SwiftUI",
+    "Django",
+    "Flask",
+    "Spring",
+    "Ruby on Rails",
+    "Laravel",
+    "TensorFlow",
+    "Redux",
+    "React Query",
+    "Axios"
+  ],
+  "Tools and Utilities": [
+    "Android Studio",
+    "Visual Studio Code",
+    "Node.js",
+    "Docker",
+    "Kubernetes",
+    "Babel",
+    "Webpack",
+    "Node Package Manager (NPM)",
+    "Yarn",
+    "Node Version Manager (NVM)",
+    "Git",
+    "Debugger",
+    "CMake",
+    "K9s"
+  ],
+  "Networking and Protocols": [
+    "Transmission Control Protocol (TCP)",
+    "Internet Protocol (IP)",
+    "Domain Name System (DNS)",
+    "WebSocket",
+    "WebRTC",
+    "Hypertext Transfer Protocol Secure (HTTPS)",
+    "Hypertext Transfer Protocol (HTTP)",
+    "File Transfer Protocol (FTP)",
+    "Simple Mail Transfer Protocol (SMTP)",
+    "Post Office Protocol (POP)",
+    "Internet Message Access Protocol (IMAP)",
+    "Secure Sockets Layer (SSL)",
+    "Transport Layer Security (TLS)",
+    "Message Queuing Telemetry Transport (MQTT)"
+  ],
+  "Data and Storage": [
+    "Structured Query Language (SQL)",
+    "NoSQL",
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
+    "Redis",
+    "Amazon Web Services (AWS)",
+    "Google Cloud",
+    "Firebase",
+    "S3",
+    "Prisma"
+  ],
+  "Artificial Intelligence and Machine Learning": [
+    "Machine Learning",
+    "Large Language Model (LLM)",
+    "Generative Pre-trained Transformer (GPT)",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Generative Adversarial Network",
+    "Convolutional Neural Network",
+    "Transfer Learning",
+    "Gradient Descent",
+    "Reinforcement Learning",
+    "Neural Network",
+    "Deep Learning"
+  ],
+  "Software Development Concepts": [
+    "API",
+    "Middleware",
+    "Reducer",
+    "State",
+    "Props",
+    "Component",
+    "Hook",
+    "Function",
+    "Method",
+    "Script",
+    "Environment Variable",
+    "Environment",
+    "Garbage Collection",
+    "Version Control",
+    "Repository",
+    "Commit",
+    "Branch",
+    "Merge",
+    "Pull Request",
+    "Fork",
+    "Clone",
+    "Staging Area",
+    "Conflict"
+  ],
+  "Operating Systems and Platforms": [
+    "Linux",
+    "Unix",
+    "Linux Distribution",
+    "Kernel",
+    "Shell",
+    "Command Line Interface (CLI)",
+    "Graphical User Interface (GUI)",
+    "Virtual Machine (VM)",
+    "Emulation"
+  ],
+  "Security and Cryptography": [
+    "Blockchain",
+    "Bitcoin",
+    "Ethereum",
+    "Smart Contract",
+    "NFT"
+  ],
+  "Rendering and Web Development": [
+    "Server-Side Rendering (SSR)",
+    "Client-Side Rendering (CSR)",
+    "Static Site Generation (SSG)",
+    "Content Delivery Network (CDN)"
   ]
 }
