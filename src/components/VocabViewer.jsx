@@ -48,12 +48,16 @@ const VocabViewer = () => {
           <p>
             <strong>Definition:</strong> {currentTerm.definition}
           </p>
-          <p>
-            <strong>Creator:</strong> {currentTerm.creator || ""}
-          </p>
-          <p>
-            <strong>Year:</strong> {currentTerm.year || ""}
-          </p>
+          {currentTerm.creator && (
+            <p>
+              <strong>Creator:</strong> {currentTerm.creator}
+            </p>
+          )}
+          {currentTerm.year && (
+            <p>
+              <strong>Year:</strong> {currentTerm.year}
+            </p>
+          )}
         </div>
       )}
       <button onClick={handleNext} style={{ padding: "10px 20px" }}>
