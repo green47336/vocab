@@ -1,0 +1,224 @@
+API
+ARM
+Agile
+Amazon Web Services (AWS)
+Android Studio
+Angular
+AppImage
+Assembly Language
+Axios
+Azure
+Babel
+Bash
+Basic Service Set Identifier (BSSID)
+Binary (Software)
+Bitcoin
+Blockchain
+Bootstrap
+Branch
+Build System
+Bytecode
+C
+C#
+C++
+CMake
+CMakeLists.txt
+Cascading Style Sheets (CSS)
+Chromium
+Client-Side Rendering (CSR)
+Clone
+Cloudflare
+Cluster
+Command Line Interface (CLI)
+Commit
+Compiler
+Component
+Computer Vision
+Conflict
+Container
+Content Delivery Network (CDN)
+Continuous Integration and Continuous Deployment (CI/CD)
+Convolutional Neural Network
+Daemon
+Dart
+Debugger
+Deep Learning
+Diffusion (AI)
+Django
+Docker
+Dockerfile
+Domain Name System (DNS)
+ES5
+ES6
+ES7
+Electron
+Emulation
+Environment
+Environment Variable
+Ethereum
+Express.js
+Fetch API
+Figma
+File Transfer Protocol (FTP)
+Firebase
+Flask
+Flatpak
+Flutter
+Flutter
+Fork
+Function
+Functional Programming
+Garbage Collection
+Gatsby
+Generative Adversarial Network
+Generative Pre-trained Transformer (GPT)
+Git
+Go
+Google Cloud
+Gradient Descent
+GraphQL
+Graphical User Interface (GUI)
+Hook
+Hydrate (Software)
+Hypertext Markup Language (HTML)
+Hypertext Transfer Protocol (HTTP)
+Hypertext Transfer Protocol Secure (HTTPS)
+Image (Software)
+Integrated Development Environment (IDE)
+Internet Message Access Protocol (IMAP)
+Internet Protocol (IP)
+Interpreter
+Interpreter
+JSON Web Token (JWT)
+JSX
+Java
+JavaScript Object Notation (JSON)
+Jenkins
+Jira
+K9s
+Kanban
+Kernel
+Kotlin
+Kubernetes
+Laravel
+Large Language Model (LLM)
+Linux
+Linux Distribution
+Local
+MAC Address
+Machine Code
+Machine Language
+Machine Learning
+Makefile
+Material
+Material UI
+Merge
+Message Queuing Telemetry Transport (MQTT)
+Method
+Microservice
+Middleware
+Model (Software)
+MongoDB
+Mosquito
+MySQL
+NFT
+Natural Language Processing
+Neural Network
+Next.js
+Next.js
+NoSQL
+Node (Software)
+Node Package Manager (NPM)
+Node Version Manager (NVM)
+Node.js
+Nuxt.js
+OAuth
+Object Oriented Programming (OOP)
+Object Relational Mapper (ORM)
+Objective-C
+Oh My Zsh
+PHP
+Package
+Post Office Protocol (POP)
+PostgreSQL
+Prisma
+Promise
+Props
+Protocol (Software)
+Pull Request
+Python
+Qt
+Qt Creator
+Qt Designer
+RISC-V
+React
+React Context
+React Native
+React Query
+Recursion
+Redis
+Reducer
+Redux
+Reinforcement Learning
+Remote
+Render (Software)
+Repository
+Representational State Transfer (REST)
+Ruby
+Ruby on Rails
+Rust
+S3
+Script
+Scrum
+Secure Sockets Layer (SSL)
+Server-Side Rendering (SSR)
+Service Set Identifier (SSID)
+Shell
+Simple Mail Transfer Protocol (SMTP)
+Smart Contract
+Snap
+Solidity
+Source Code
+Spring
+SpringBoot
+Staging Area
+State
+Static Site Generation (SSG)
+Storybook
+Strapi
+Structured Query Language (SQL)
+Svelte
+Swift
+SwiftUI
+TSX
+Tailwind CSS
+Tauri
+TensorFlow
+Text Editor
+Thunk
+Thunk Creator
+Transfer Learning
+Transmission Control Protocol (TCP)
+Transport Layer Security (TLS)
+Travis CI
+Trello
+TypeScript
+Unix
+Vercel
+Version Control
+Virtual Machine (VM)
+Visual Studio Code
+Vue.js
+WebAssembly
+WebRTC
+WebRTC
+WebSocket
+WebSocket
+Webpack
+XML
+YAML
+Yarn
+Z shell (Zsh)
+jQuery
+x86
+x86-64
