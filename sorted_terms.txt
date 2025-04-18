@@ -99,6 +99,7 @@ Kanban
 Kernel
 Kotlin
 Kubernetes
+Lambda Function
 Laravel
 Large Language Model (LLM)
 Linux

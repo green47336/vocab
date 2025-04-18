@@ -606,6 +606,12 @@
     "year": "2014"
   },
   {
+    "term": "Lambda Function",
+    "definition": "An anonymous function that can be used as an argument to higher-order functions.",
+    "creator": "John McCarthy",
+    "year": "1958"
+  },
+  {
     "term": "Laravel",
     "definition": "A PHP framework for web artisans.",
     "creator": "Taylor Otwell",
