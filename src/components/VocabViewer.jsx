@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import vocab from "./vocab.json";
+import vocab from "../data/vocab.json";
 
 const VocabViewer = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
