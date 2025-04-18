@@ -146,7 +146,7 @@
   {
     "term": "Cascading Style Sheets (CSS)",
     "definition": "A style sheet language used for describing the presentation of a document written in HTML or XML.",
-    "creator": "H\u00e5kon Wium Lie and Bert Bos",
+    "creator": "Håkon Wium Lie and Bert Bos",
     "year": "1996"
   },
   {
@@ -1220,7 +1220,7 @@
   {
     "term": "YAML",
     "definition": "YAML Ain't Markup Language, a human-readable data serialization format.",
-    "creator": "Clark Evans, Ingy d\u00f6t Net, and Oren Ben-Kiki",
+    "creator": "Clark Evans, Ingy döt Net, and Oren Ben-Kiki",
     "year": "2001"
   },
   {
