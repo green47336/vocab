@@ -1,33 +1,9 @@
 [
   {
-    "term": "React Context",
-    "definition": "A React API that allows you to pass data through the component tree without having to pass props down manually at every level.",
-    "creator": "React Team",
-    "year": "2013"
-  },
-  {
-    "term": "Fetch API",
-    "definition": "A modern interface that allows you to make network requests similar to XMLHttpRequest.",
-    "creator": "WHATWG",
-    "year": "2015"
-  },
-  {
-    "term": "Representational State Transfer (REST)",
-    "definition": "An architectural style for designing networked applications.",
+    "term": "API",
+    "definition": "An application programming interface is a set of routines, protocols, and tools for building software and applications.",
     "creator": "Roy Fielding",
     "year": "2000"
-  },
-  {
-    "term": "Azure",
-    "definition": "A cloud computing service created by Microsoft for building, testing, deploying, and managing applications.",
-    "creator": "Microsoft",
-    "year": "2010"
-  },
-  {
-    "term": "x86",
-    "definition": "A family of instruction set architectures based on the Intel 8086 microprocessor.",
-    "creator": "Intel",
-    "year": "1978"
   },
   {
     "term": "ARM",
@@ -36,292 +12,16 @@
     "year": "1983"
   },
   {
-    "term": "RISC-V",
-    "definition": "An open standard instruction set architecture based on established reduced instruction set computing principles.",
-    "creator": "RISC-V Foundation",
-    "year": "2010"
-  },
-  {
-    "term": "Machine Learning",
-    "definition": "A field of computer science that uses statistical techniques to give computer systems the ability to 'learn' from data.",
-    "creator": "Arthur Samuel",
-    "year": "1959"
-  },
-  {
-    "term": "Large Language Model (LLM)",
-    "definition": "A type of artificial intelligence that uses deep learning to understand and generate human language.",
-    "creator": "OpenAI",
-    "year": "2020"
-  },
-  {
-    "term": "Generative Pre-trained Transformer (GPT)",
-    "definition": "A type of large language model developed by OpenAI.",
-    "creator": "OpenAI",
-    "year": "2018"
-  },
-  {
-    "term": "Natural Language Processing",
-    "definition": "A subfield of artificial intelligence that focuses on the interaction between computers and humans through natural language.",
-    "creator": "Alan Turing",
-    "year": "1950"
-  },
-  {
-    "term": "Computer Vision",
-    "definition": "A field of artificial intelligence that trains computers to interpret and understand the visual world.",
-    "creator": "David Marr",
-    "year": "1982"
-  },
-  {
-    "term": "Generative Adversarial Network",
-    "definition": "A class of machine learning frameworks designed by Ian Goodfellow and his colleagues in 2014.",
-    "creator": "Ian Goodfellow",
-    "year": "2014"
-  },
-  {
-    "term": "Convolutional Neural Network",
-    "definition": "A class of deep neural networks, most commonly applied to analyzing visual imagery.",
-    "creator": "Yann LeCun",
-    "year": "1989"
-  },
-  {
-    "term": "Transfer Learning",
-    "definition": "A machine learning technique where a model developed for a task is reused as the starting point for a model on a second task.",
-    "creator": "Yosinski et al.",
-    "year": "2014"
-  },
-  {
-    "term": "Gradient Descent",
-    "definition": "An iterative optimization algorithm used to minimize a function by adjusting parameters in the opposite direction of the gradient.",
-    "creator": "Augustin-Louis Cauchy",
-    "year": "1847"
-  },
-  {
-    "term": "Reinforcement Learning",
-    "definition": "An area of machine learning concerned with how software agents ought to take actions in an environment to maximize some notion of cumulative reward.",
-    "creator": "Richard Sutton and Andrew Barto",
-    "year": "1998"
-  },
-  {
-    "term": "Neural Network",
-    "definition": "A series of algorithms that attempt to recognize underlying relationships in a set of data.",
-    "creator": "Frank Rosenblatt",
-    "year": "1958"
-  },
-  {
-    "term": "Deep Learning",
-    "definition": "A subset of machine learning that uses neural networks with many layers.",
-    "creator": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio",
-    "year": "2006"
-  },
-  {
-    "term": "Daemon",
-    "definition": "A background process that handles requests for services such as print spooling and file transfers.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "WebAssembly",
-    "definition": "A binary instruction format for a stack-based virtual machine.",
-    "creator": "W3C",
-    "year": "2017"
-  },
-  {
-    "term": "Mosquito",
-    "definition": "An open-source message broker that implements the MQTT protocol.",
-    "creator": "Eclipse Foundation",
-    "year": "2013"
-  },
-  {
-    "term": "Chromium",
-    "definition": "An open-source web browser project from which Google Chrome draws its source code.",
-    "creator": "Google",
-    "year": "2008"
-  },
-  {
-    "term": "Build System",
-    "definition": "A system that automates the process of building software.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Makefile",
-    "definition": "A file containing a set of directives used with the make build automation tool to generate a target/goal.",
-    "creator": "Stuart Feldman",
-    "year": "1976"
-  },
-  {
-    "term": "CMakeLists.txt",
-    "definition": "A file used by CMake to configure the build process.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Dockerfile",
-    "definition": "A text document that contains all the commands to assemble an image.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Package",
-    "definition": "A bundle of code and resources that can be installed and used in a project.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Machine Code",
-    "definition": "A set of instructions executed directly by a computer's CPU.",
-    "creator": "John von Neumann",
-    "year": "1945"
-  },
-  {
-    "term": "Source Code",
-    "definition": "The human-readable instructions that a programmer writes in a programming language.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "JavaScript Object Notation (JSON)",
-    "definition": "A lightweight data interchange format that is easy for humans to read and write.",
-    "creator": "Douglas Crockford",
-    "year": "2001"
-  },
-  {
-    "term": "YAML",
-    "definition": "YAML Ain't Markup Language, a human-readable data serialization format.",
-    "creator": "Clark Evans, Ingy d\u00f6t Net, and Oren Ben-Kiki",
-    "year": "2001"
-  },
-  {
-    "term": "Model (Software)",
-    "definition": "A data structure that represents the data in an application.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Structured Query Language (SQL)",
-    "definition": "A domain-specific language used in programming and managing relational databases.",
-    "creator": "Donald D. Chamberlin and Raymond F. Boyce",
-    "year": "1974"
-  },
-  {
-    "term": "NoSQL",
-    "definition": "A class of database management systems that do not follow the traditional relational database model.",
-    "creator": "Carl Stroz",
-    "year": "1998"
-  },
-  {
-    "term": "MongoDB",
-    "definition": "A document-oriented NoSQL database used for high volume data storage.",
-    "creator": "Dwight Merriman, Eliot Horowitz, and Kevin Ryan",
-    "year": "2007"
-  },
-  {
-    "term": "PostgreSQL",
-    "definition": "An open-source relational database management system emphasizing extensibility and SQL compliance.",
-    "creator": "Michael Stonebraker",
-    "year": "1986"
-  },
-  {
-    "term": "MySQL",
-    "definition": "An open-source relational database management system based on SQL.",
-    "creator": "Michael 'Monty' Widenius",
-    "year": "1995"
-  },
-  {
-    "term": "Redis",
-    "definition": "An open-source, in-memory data structure store, used as a database, cache, and message broker.",
-    "creator": "Salvatore Sanfilippo",
-    "year": "2009"
-  },
-  {
     "term": "Amazon Web Services (AWS)",
     "definition": "A subsidiary of Amazon providing on-demand cloud computing platforms and APIs.",
     "creator": "Amazon",
     "year": "2006"
   },
   {
-    "term": "Google Cloud",
-    "definition": "A suite of cloud computing services that runs on the same infrastructure that Google uses internally.",
+    "term": "Android Studio",
+    "definition": "An integrated development environment for Google's Android operating system.",
     "creator": "Google",
-    "year": "2008"
-  },
-  {
-    "term": "Firebase",
-    "definition": "A platform developed by Google for creating mobile and web applications.",
-    "creator": "Firebase, Inc.",
-    "year": "2011"
-  },
-  {
-    "term": "S3",
-    "definition": "Amazon Simple Storage Service, an object storage service offered by Amazon Web Services.",
-    "creator": "Amazon",
-    "year": "2006"
-  },
-  {
-    "term": "Prisma",
-    "definition": "An open-source database toolkit that simplifies database access and management.",
-    "creator": "Prisma Labs",
-    "year": "2018"
-  },
-  {
-    "term": "Material",
-    "definition": "A design system created by Google for building user interfaces.",
-    "creator": "Google",
-    "year": "2014"
-  },
-  {
-    "term": "Material UI",
-    "definition": "A popular React UI framework that implements Google's Material Design.",
-    "creator": "MUI Team",
-    "year": "2014"
-  },
-  {
-    "term": "Figma",
-    "definition": "A web-based UI/UX design application.",
-    "creator": "Dylan Field and Evan Wallace",
-    "year": "2012"
-  },
-  {
-    "term": "Image (Software)",
-    "definition": "A file that contains a complete copy of a file system or application.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Binary (Software)",
-    "definition": "A file that contains compiled code that can be executed by a computer.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Tauri",
-    "definition": "A framework for building smaller, faster binaries for all major desktop platforms.",
-    "creator": "Tauri Team",
-    "year": "2020"
-  },
-  {
-    "term": "Qt",
-    "definition": "A free and open-source widget toolkit for creating graphical user interfaces as well as cross-platform applications.",
-    "creator": "Trolltech",
-    "year": "1991"
-  },
-  {
-    "term": "SpringBoot",
-    "definition": "A Java-based framework used to create stand-alone, production-grade Spring-based applications.",
-    "creator": "Pivotal Software",
-    "year": "2014"
-  },
-  {
-    "term": "React",
-    "definition": "A JavaScript library for building user interfaces.",
-    "creator": "Facebook",
     "year": "2013"
-  },
-  {
-    "term": "Vue.js",
-    "definition": "A progressive JavaScript framework for building user interfaces.",
-    "creator": "Evan You",
-    "year": "2014"
   },
   {
     "term": "Angular",
@@ -330,136 +30,16 @@
     "year": "2010"
   },
   {
-    "term": "Svelte",
-    "definition": "A modern JavaScript framework for building user interfaces.",
-    "creator": "Rich Harris",
-    "year": "2016"
+    "term": "AppImage",
+    "definition": "A format for distributing portable software on Linux without needing superuser permissions to install the application.",
+    "creator": "",
+    "year": ""
   },
   {
-    "term": "jQuery",
-    "definition": "A fast, small, and feature-rich JavaScript library.",
-    "creator": "John Resig",
-    "year": "2006"
-  },
-  {
-    "term": "Bootstrap",
-    "definition": "A front-end framework for developing responsive and mobile-first websites.",
-    "creator": "Twitter",
-    "year": "2011"
-  },
-  {
-    "term": "Tailwind CSS",
-    "definition": "A utility-first CSS framework for creating custom designs.",
-    "creator": "Adam Wathan and Steve Schoger",
-    "year": "2017"
-  },
-  {
-    "term": "Express.js",
-    "definition": "A minimal and flexible Node.js web application framework.",
-    "creator": "TJ Holowaychuk",
-    "year": "2010"
-  },
-  {
-    "term": "Next.js",
-    "definition": "A React framework for server-rendered applications.",
-    "creator": "Vercel",
-    "year": "2016"
-  },
-  {
-    "term": "Gatsby",
-    "definition": "A React-based open-source framework for creating websites and apps.",
-    "creator": "Kyle Mathews",
-    "year": "2015"
-  },
-  {
-    "term": "Nuxt.js",
-    "definition": "A framework based on Vue.js for building server-rendered applications.",
-    "creator": "Alexandre Chopin",
-    "year": "2016"
-  },
-  {
-    "term": "Electron",
-    "definition": "A framework for building cross-platform desktop applications with web technologies.",
-    "creator": "GitHub",
-    "year": "2013"
-  },
-  {
-    "term": "React Native",
-    "definition": "A framework for building native applications using React.",
-    "creator": "Facebook",
-    "year": "2015"
-  },
-  {
-    "term": "Flutter",
-    "definition": "An open-source UI software development toolkit created by Google.",
-    "creator": "Google",
-    "year": "2017"
-  },
-  {
-    "term": "SwiftUI",
-    "definition": "A user interface toolkit that lets you design apps in a declarative way.",
-    "creator": "Apple",
-    "year": "2019"
-  },
-  {
-    "term": "Django",
-    "definition": "A high-level Python web framework that encourages rapid development.",
-    "creator": "Adrian Holovaty and Simon Willison",
-    "year": "2005"
-  },
-  {
-    "term": "Flask",
-    "definition": "A lightweight WSGI web application framework in Python.",
-    "creator": "Armin Ronacher",
-    "year": "2010"
-  },
-  {
-    "term": "Spring",
-    "definition": "A powerful framework for building Java applications.",
-    "creator": "Rod Johnson",
-    "year": "2003"
-  },
-  {
-    "term": "Ruby on Rails",
-    "definition": "A server-side web application framework written in Ruby.",
-    "creator": "David Heinemeier Hansson",
-    "year": "2004"
-  },
-  {
-    "term": "Laravel",
-    "definition": "A PHP framework for web artisans.",
-    "creator": "Taylor Otwell",
-    "year": "2011"
-  },
-  {
-    "term": "TensorFlow",
-    "definition": "An open-source library for numerical computation and machine learning.",
-    "creator": "Google Brain Team",
-    "year": "2015"
-  },
-  {
-    "term": "Flutter",
-    "definition": "An open-source UI software development toolkit created by Google.",
-    "creator": "Google",
-    "year": "2017"
-  },
-  {
-    "term": "Next.js",
-    "definition": "A React framework for server-rendered applications.",
-    "creator": "Vercel",
-    "year": "2016"
-  },
-  {
-    "term": "Redux",
-    "definition": "A predictable state container for JavaScript apps.",
-    "creator": "Dan Abramov and Andrew Clark",
-    "year": "2015"
-  },
-  {
-    "term": "React Query",
-    "definition": "A library for fetching, caching, and updating data in React applications.",
-    "creator": "TanStack",
-    "year": "2018"
+    "term": "Assembly Language",
+    "definition": "A low-level programming language that is closely related to machine code.",
+    "creator": "",
+    "year": ""
   },
   {
     "term": "Axios",
@@ -468,26 +48,62 @@
     "year": "2014"
   },
   {
-    "term": "Thunk Creator",
-    "definition": "A function that returns a function, allowing you to perform asynchronous actions in Redux.",
-    "creator": "Dan Abramov",
-    "year": "2015"
+    "term": "Azure",
+    "definition": "A cloud computing service created by Microsoft for building, testing, deploying, and managing applications.",
+    "creator": "Microsoft",
+    "year": "2010"
   },
   {
-    "term": "Cluster",
-    "definition": "A group of nodes that work together to run applications and services.",
+    "term": "Babel",
+    "definition": "A JavaScript compiler that allows you to use next generation JavaScript, today.",
+    "creator": "Sebastian McKenzie",
+    "year": "2014"
+  },
+  {
+    "term": "Bash",
+    "definition": "Bourne again shell. A Unix shell and command language.",
+    "creator": "Brian Fox",
+    "year": "1987"
+  },
+  {
+    "term": "Basic Service Set Identifier (BSSID)",
+    "definition": "It is a unique identifier for a specific access point (AP) in a wireless local area network (WLAN). The BSSID is typically the MAC address of the wireless access point's radio interface. While the SSID identifies the network name, the BSSID identifies the specific hardware (access point) broadcasting that network.",
+    "creator": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "year": "1997"
+  },
+  {
+    "term": "Binary (Software)",
+    "definition": "A file that contains compiled code that can be executed by a computer.",
     "creator": "",
     "year": ""
   },
   {
-    "term": "Qt Creator",
-    "definition": "An integrated development environment designed to make development with the Qt application framework easy and efficient.",
-    "creator": "The Qt Company",
+    "term": "Bitcoin",
+    "definition": "A decentralized digital currency without a central bank or single administrator.",
+    "creator": "Satoshi Nakamoto (Pseudonym)",
     "year": "2009"
   },
   {
-    "term": "Node (Software)",
-    "definition": "An instance of a running application or service in a cluster.",
+    "term": "Blockchain",
+    "definition": "A decentralized digital ledger that records transactions across many computers.",
+    "creator": "Satoshi Nakamoto (Psuedonym, Attributed)",
+    "year": "2008"
+  },
+  {
+    "term": "Bootstrap",
+    "definition": "A front-end framework for developing responsive and mobile-first websites.",
+    "creator": "Twitter",
+    "year": "2011"
+  },
+  {
+    "term": "Branch",
+    "definition": "A version of a repository that diverges from the main line of development.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Build System",
+    "definition": "A system that automates the process of building software.",
     "creator": "",
     "year": ""
   },
@@ -496,6 +112,180 @@
     "definition": "A form of instruction set designed for efficient execution by a software interpreter.",
     "creator": "",
     "year": ""
+  },
+  {
+    "term": "C",
+    "definition": "A general-purpose programming language that is extremely popular, simple, and flexible.",
+    "creator": "Dennis Ritchie",
+    "year": "1972"
+  },
+  {
+    "term": "C#",
+    "definition": "A modern, object-oriented programming language developed by Microsoft.",
+    "creator": "Anders Hejlsberg",
+    "year": "2000"
+  },
+  {
+    "term": "C++",
+    "definition": "A general-purpose programming language created as an extension of the C programming language.",
+    "creator": "Bjarne Stroustrup",
+    "year": "1985"
+  },
+  {
+    "term": "CMake",
+    "definition": "A cross-platform free and open-source software for managing the build process of software using a compiler-independent method.",
+    "creator": "Kitware",
+    "year": "2000"
+  },
+  {
+    "term": "CMakeLists.txt",
+    "definition": "A file used by CMake to configure the build process.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Cascading Style Sheets (CSS)",
+    "definition": "A style sheet language used for describing the presentation of a document written in HTML or XML.",
+    "creator": "H\u00e5kon Wium Lie and Bert Bos",
+    "year": "1996"
+  },
+  {
+    "term": "Chromium",
+    "definition": "An open-source web browser project from which Google Chrome draws its source code.",
+    "creator": "Google",
+    "year": "2008"
+  },
+  {
+    "term": "Client-Side Rendering (CSR)",
+    "definition": "A method of rendering web pages in the browser instead of on the server.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Clone",
+    "definition": "A copy of a repository that is created on your local machine.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Cloudflare",
+    "definition": "A web performance and security company that provides content delivery network services.",
+    "creator": "Matthew Prince, Michelle Zatlyn, and Lee Holloway",
+    "year": "2009"
+  },
+  {
+    "term": "Cluster",
+    "definition": "A group of nodes that work together to run applications and services.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Command Line Interface (CLI)",
+    "definition": "A way to interact with a computer program by typing commands into a console or terminal.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Commit",
+    "definition": "A change or set of changes to a file or set of files in a version control system.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Compiler",
+    "definition": "A program that translates source code written in a programming language into machine code.",
+    "creator": "John Backus",
+    "year": "1957"
+  },
+  {
+    "term": "Component",
+    "definition": "A reusable piece of code that represents a part of the user interface in a React application.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Computer Vision",
+    "definition": "A field of artificial intelligence that trains computers to interpret and understand the visual world.",
+    "creator": "David Marr",
+    "year": "1982"
+  },
+  {
+    "term": "Conflict",
+    "definition": "An issue that arises when changes from different branches cannot be automatically merged.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Container",
+    "definition": "A lightweight, standalone, executable package of software that includes everything needed to run it.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Content Delivery Network (CDN)",
+    "definition": "A system of distributed servers that deliver web content to users based on their geographic location.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Convolutional Neural Network",
+    "definition": "A class of deep neural networks, most commonly applied to analyzing visual imagery.",
+    "creator": "Yann LeCun",
+    "year": "1989"
+  },
+  {
+    "term": "Daemon",
+    "definition": "A background process that handles requests for services such as print spooling and file transfers.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Dart",
+    "definition": "An open-source, general-purpose programming language developed by Google.",
+    "creator": "Google",
+    "year": "2011"
+  },
+  {
+    "term": "Debugger",
+    "definition": "A tool used to test and debug programs.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Deep Learning",
+    "definition": "A subset of machine learning that uses neural networks with many layers.",
+    "creator": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio",
+    "year": "2006"
+  },
+  {
+    "term": "Diffusion (AI)",
+    "definition": "A process used in machine learning to generate new data points by iteratively refining random noise.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Django",
+    "definition": "A high-level Python web framework that encourages rapid development.",
+    "creator": "Adrian Holovaty and Simon Willison",
+    "year": "2005"
+  },
+  {
+    "term": "Docker",
+    "definition": "A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.",
+    "creator": "Solomon Hykes",
+    "year": "2013"
+  },
+  {
+    "term": "Dockerfile",
+    "definition": "A text document that contains all the commands to assemble an image.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Domain Name System (DNS)",
+    "definition": "A hierarchical and decentralized naming system for computers, services, or any resource connected to the Internet.",
+    "creator": "Paul Mockapetris",
+    "year": "1983"
   },
   {
     "term": "ES5",
@@ -516,584 +306,14 @@
     "year": "2016"
   },
   {
-    "term": "Assembly Language",
-    "definition": "A low-level programming language that is closely related to machine code.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Machine Language",
-    "definition": "The lowest-level programming language, consisting of binary code that the computer's CPU can directly execute.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Hypertext Markup Language (HTML)",
-    "definition": "The standard markup language for documents designed to be displayed in a web browser.",
-    "creator": "Tim Berners-Lee",
-    "year": "1993"
-  },
-  {
-    "term": "Thunk",
-    "definition": "A middleware that allows you to write action creators that return a function instead of an action.",
-    "creator": "Dan Abramov",
-    "year": "2015"
-  },
-  {
-    "term": "Service Set Identifier (SSID)",
-    "definition": "A unique identifier that sets up a wireless local area network.",
-    "creator": "Institute of Electrical and Electronics Engineers (IEEE)",
-    "year": "1997"
-  },
-  {
-    "term": "Basic Service Set Identifier (BSSID)",
-    "definition": "It is a unique identifier for a specific access point (AP) in a wireless local area network (WLAN). The BSSID is typically the MAC address of the wireless access point's radio interface. While the SSID identifies the network name, the BSSID identifies the specific hardware (access point) broadcasting that network.",
-    "creator": "Institute of Electrical and Electronics Engineers (IEEE)",
-    "year": "1997"
-  },
-  {
-    "term": "MAC Address",
-    "definition": "A unique identifier assigned to network interfaces for communications on the physical network segment.",
-    "creator": "Institute of Electrical and Electronics Engineers (IEEE)",
-    "year": "1980"
-  },
-  {
-    "term": "WebSocket",
-    "definition": "A computer communications protocol, providing full-duplex communication channels over a single TCP connection.",
-    "creator": "IETF",
-    "year": "2011"
-  },
-  {
-    "term": "WebRTC",
-    "definition": "An open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces.",
-    "creator": "Google",
-    "year": "2011"
-  },
-  {
-    "term": "Transmission Control Protocol (TCP)",
-    "definition": "A core protocol of the Internet Protocol Suite.",
-    "creator": "Vint Cerf and Bob Kahn",
-    "year": "1974"
-  },
-  {
-    "term": "Internet Protocol (IP)",
-    "definition": "The principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries.",
-    "creator": "Vint Cerf and Bob Kahn",
-    "year": "1974"
-  },
-  {
-    "term": "Domain Name System (DNS)",
-    "definition": "A hierarchical and decentralized naming system for computers, services, or any resource connected to the Internet.",
-    "creator": "Paul Mockapetris",
-    "year": "1983"
-  },
-  {
-    "term": "Hypertext Transfer Protocol Secure (HTTPS)",
-    "definition": "An extension of HTTP that uses SSL/TLS to provide secure communication.",
-    "creator": "Tim Berners-Lee",
-    "year": "1994"
-  },
-  {
-    "term": "Hypertext Transfer Protocol (HTTP)",
-    "definition": "An application protocol for distributed, collaborative, hypermedia information systems.",
-    "creator": "Tim Berners-Lee",
-    "year": "1991"
-  },
-  {
-    "term": "File Transfer Protocol (FTP)",
-    "definition": "A standard network protocol used to transfer files from one host to another over a TCP-based network.",
-    "creator": "Abhay Bhushan",
-    "year": "1971"
-  },
-  {
-    "term": "Simple Mail Transfer Protocol (SMTP)",
-    "definition": "An Internet standard for email transmission.",
-    "creator": "Jon Postel",
-    "year": "1982"
-  },
-  {
-    "term": "Post Office Protocol (POP)",
-    "definition": "A protocol for receiving email by downloading it to your computer.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Internet Message Access Protocol (IMAP)",
-    "definition": "A protocol for accessing email on a remote web server from a local client.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Secure Sockets Layer (SSL)",
-    "definition": "A standard security technology for establishing an encrypted link between a server and a client.",
-    "creator": "Netscape",
-    "year": "1994"
-  },
-  {
-    "term": "Transport Layer Security (TLS)",
-    "definition": "A cryptographic protocol designed to provide communications security over a computer network.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Message Queuing Telemetry Transport (MQTT)",
-    "definition": "A lightweight messaging protocol for small sensors and mobile devices optimized for high-latency or unreliable networks.",
-    "creator": "Andy Stanford-Clark and Arlen Nipper",
-    "year": "1999"
-  },
-  {
-    "term": "WebSocket",
-    "definition": "A computer communications protocol, providing full-duplex communication channels over a single TCP connection.",
-    "creator": "IETF",
-    "year": "2011"
-  },
-  {
-    "term": "WebRTC",
-    "definition": "An open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces.",
-    "creator": "Google",
-    "year": "2011"
-  },
-  {
-    "term": "Promise",
-    "definition": "An object representing the eventual completion or failure of an asynchronous operation.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Linux",
-    "definition": "A family of open-source Unix-like operating systems based on the Linux kernel.",
-    "creator": "Linus Torvalds",
-    "year": "1991"
-  },
-  {
-    "term": "Unix",
-    "definition": "A family of multitasking, multiuser computer operating systems.",
-    "creator": "Ken Thompson, Dennis Ritchie, and others",
-    "year": "1969"
-  },
-  {
-    "term": "Linux Distribution",
-    "definition": "An operating system made from a software collection that is based on the Linux kernel.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Kernel",
-    "definition": "The core component of an operating system that manages system resources and communication between hardware and software.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Shell",
-    "definition": "A user interface for access to an operating system's services.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Command Line Interface (CLI)",
-    "definition": "A way to interact with a computer program by typing commands into a console or terminal.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Graphical User Interface (GUI)",
-    "definition": "A visual way to interact with a computer program using graphical elements.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Virtual Machine (VM)",
-    "definition": "A software emulation of a physical computer that runs an operating system and applications.",
-    "creator": "IBM",
-    "year": "1972"
+    "term": "Electron",
+    "definition": "A framework for building cross-platform desktop applications with web technologies.",
+    "creator": "GitHub",
+    "year": "2013"
   },
   {
     "term": "Emulation",
     "definition": "The process of imitating the function of one system using a different system.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Snap",
-    "definition": "A package format for distributing software on Linux.",
-    "creator": "Canonical Ltd.",
-    "year": "2016"
-  },
-  {
-    "term": "Flatpak",
-    "definition": "A software utility for software virtualization and deployment.",
-    "creator": "Alexander Larsson",
-    "year": "2015"
-  },
-  {
-    "term": "AppImage",
-    "definition": "A format for distributing portable software on Linux without needing superuser permissions to install the application.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Container",
-    "definition": "A lightweight, standalone, executable package of software that includes everything needed to run it.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Vercel",
-    "definition": "A cloud platform for static sites and serverless functions.",
-    "creator": "Vercel",
-    "year": "2016"
-  },
-  {
-    "term": "Diffusion (AI)",
-    "definition": "A process used in machine learning to generate new data points by iteratively refining random noise.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Render (Software)",
-    "definition": "The process of generating an image from a model by means of computer programs.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Hydrate (Software)",
-    "definition": "The process of populating a component with data after it has been rendered.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Compiler",
-    "definition": "A program that translates source code written in a programming language into machine code.",
-    "creator": "John Backus",
-    "year": "1957"
-  },
-  {
-    "term": "Interpreter",
-    "definition": "A program that directly executes instructions written in a programming language.",
-    "creator": "John McCarthy",
-    "year": "1958"
-  },
-  {
-    "term": "Interpreter",
-    "definition": "A program that directly executes instructions written in a programming language.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Solidity",
-    "definition": "A contract-oriented programming language for writing smart contracts on the Ethereum blockchain.",
-    "creator": "Christian Reitwiessner",
-    "year": "2014"
-  },
-  {
-    "term": "Object Oriented Programming (OOP)",
-    "definition": "A programming paradigm based on the concept of 'objects', which can contain data and code.",
-    "creator": "Alan Kay",
-    "year": "1966"
-  },
-  {
-    "term": "Functional Programming",
-    "definition": "A programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data.",
-    "creator": "John Backus",
-    "year": "1959"
-  },
-  {
-    "term": "Recursion",
-    "definition": "A programming technique where a function calls itself in order to solve a problem.",
-    "creator": "John McCarthy",
-    "year": "1958"
-  },
-  {
-    "term": "Python",
-    "definition": "A high-level programming language known for its readability and simplicity.",
-    "creator": "Guido van Rossum",
-    "year": "1991"
-  },
-  {
-    "term": "Java",
-    "definition": "A high-level, class-based, object-oriented programming language.",
-    "creator": "James Gosling",
-    "year": "1995"
-  },
-  {
-    "term": "Ruby",
-    "definition": "A dynamic, open source programming language with a focus on simplicity and productivity.",
-    "creator": "Yukihiro Matsumoto",
-    "year": "1995"
-  },
-  {
-    "term": "PHP",
-    "definition": "A popular general-purpose scripting language that is especially suited to web development.",
-    "creator": "Rasmus Lerdorf",
-    "year": "1994"
-  },
-  {
-    "term": "Go",
-    "definition": "Also known as Golang in informal contexts. An open source programming language that makes it easy to build simple, reliable, and efficient software.",
-    "creator": "Robert Griesemer, Rob Pike, and Ken Thompson",
-    "year": "2009"
-  },
-  {
-    "term": "Rust",
-    "definition": "A systems programming language focused on safety, speed, and concurrency.",
-    "creator": "Graydon Hoare",
-    "year": "2010"
-  },
-  {
-    "term": "C#",
-    "definition": "A modern, object-oriented programming language developed by Microsoft.",
-    "creator": "Anders Hejlsberg",
-    "year": "2000"
-  },
-  {
-    "term": "Swift",
-    "definition": "A powerful and intuitive programming language for iOS, macOS, watchOS, and tvOS.",
-    "creator": "Apple",
-    "year": "2014"
-  },
-  {
-    "term": "C++",
-    "definition": "A general-purpose programming language created as an extension of the C programming language.",
-    "creator": "Bjarne Stroustrup",
-    "year": "1985"
-  },
-  {
-    "term": "C",
-    "definition": "A general-purpose programming language that is extremely popular, simple, and flexible.",
-    "creator": "Dennis Ritchie",
-    "year": "1972"
-  },
-  {
-    "term": "Objective-C",
-    "definition": "A general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language.",
-    "creator": "Brad Cox and Tom Love",
-    "year": "1984"
-  },
-  {
-    "term": "Kotlin",
-    "definition": "A modern programming language that makes developers happier.",
-    "creator": "JetBrains",
-    "year": "2011"
-  },
-  {
-    "term": "TypeScript",
-    "definition": "A strict syntactical superset of JavaScript that adds optional static typing.",
-    "creator": "Microsoft",
-    "year": "2012"
-  },
-  {
-    "term": "Dart",
-    "definition": "An open-source, general-purpose programming language developed by Google.",
-    "creator": "Google",
-    "year": "2011"
-  },
-  {
-    "term": "GraphQL",
-    "definition": "A query language for APIs and a runtime for fulfilling those queries with your existing data.",
-    "creator": "Facebook",
-    "year": "2012"
-  },
-  {
-    "term": "Server-Side Rendering (SSR)",
-    "definition": "A method of rendering web pages on the server instead of in the browser.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Client-Side Rendering (CSR)",
-    "definition": "A method of rendering web pages in the browser instead of on the server.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Static Site Generation (SSG)",
-    "definition": "A method of generating static HTML pages at build time.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Content Delivery Network (CDN)",
-    "definition": "A system of distributed servers that deliver web content to users based on their geographic location.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Remote",
-    "definition": "A version of a repository that is hosted on a server.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Local",
-    "definition": "A version of a repository that is stored on your local machine.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Blockchain",
-    "definition": "A decentralized digital ledger that records transactions across many computers.",
-    "creator": "Satoshi Nakamoto (Psuedonym, Attributed)",
-    "year": "2008"
-  },
-  {
-    "term": "Bitcoin",
-    "definition": "A decentralized digital currency without a central bank or single administrator.",
-    "creator": "Satoshi Nakamoto (Pseudonym)",
-    "year": "2009"
-  },
-  {
-    "term": "Ethereum",
-    "definition": "A decentralized platform that enables smart contracts and decentralized applications to be built and run without any downtime.",
-    "creator": "Vitalik Buterin",
-    "year": "2015"
-  },
-  {
-    "term": "Smart Contract",
-    "definition": "A self-executing contract with the terms of the agreement directly written into lines of code.",
-    "creator": "Nick Szabo",
-    "year": "1994"
-  },
-  {
-    "term": "NFT",
-    "definition": "A non-fungible token is a unique digital asset verified using blockchain technology.",
-    "creator": "Kevin McCoy",
-    "year": "2014"
-  },
-  {
-    "term": "Cloudflare",
-    "definition": "A web performance and security company that provides content delivery network services.",
-    "creator": "Matthew Prince, Michelle Zatlyn, and Lee Holloway",
-    "year": "2009"
-  },
-  {
-    "term": "Protocol (Software)",
-    "definition": "A set of rules or standards that define how data is transmitted and received over a network.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Bash",
-    "definition": "Bourne again shell. A Unix shell and command language.",
-    "creator": "Brian Fox",
-    "year": "1987"
-  },
-  {
-    "term": "Z Shell (zsh)",
-    "definition": "An extended Bourne shell with many improvements.",
-    "creator": "Paul Falstad",
-    "year": "1990"
-  },
-  {
-    "term": "Object Relational Mapper (ORM)",
-    "definition": "A programming technique for converting data between incompatible type systems in object-oriented programming languages.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Integrated Development Environment (IDE)",
-    "definition": "A software application that provides comprehensive facilities to programmers for software development.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Text Editor",
-    "definition": "A type of computer program that edits plain text.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "API",
-    "definition": "An application programming interface is a set of routines, protocols, and tools for building software and applications.",
-    "creator": "Roy Fielding",
-    "year": "2000"
-  },
-  {
-    "term": "Method",
-    "definition": "A function that is a property of an object.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Function",
-    "definition": "A block of code designed to perform a particular task.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Script",
-    "definition": "A file containing code that is executed by a web browser or server.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Version Control",
-    "definition": "A system that records changes to a file or set of files over time.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Repository",
-    "definition": "A storage location for software packages, code, or data.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Commit",
-    "definition": "A change or set of changes to a file or set of files in a version control system.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Branch",
-    "definition": "A version of a repository that diverges from the main line of development.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Merge",
-    "definition": "An operation that combines changes from different branches in a version control system.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Pull Request",
-    "definition": "A request to merge changes from one branch into another in a version control system.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Fork",
-    "definition": "A copy of a repository that allows you to make changes without affecting the original.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Clone",
-    "definition": "A copy of a repository that is created on your local machine.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Staging Area",
-    "definition": "An intermediate area where changes are prepared before being committed to the repository.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Conflict",
-    "definition": "An issue that arises when changes from different branches cannot be automatically merged.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Hook",
-    "definition": "A function that allows you to tap into the lifecycle of a component or application.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "Environment Variable",
-    "definition": "A variable outside of the program that can affect the behavior of the program.",
     "creator": "",
     "year": ""
   },
@@ -1104,10 +324,346 @@
     "year": ""
   },
   {
+    "term": "Environment Variable",
+    "definition": "A variable outside of the program that can affect the behavior of the program.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Ethereum",
+    "definition": "A decentralized platform that enables smart contracts and decentralized applications to be built and run without any downtime.",
+    "creator": "Vitalik Buterin",
+    "year": "2015"
+  },
+  {
+    "term": "Express.js",
+    "definition": "A minimal and flexible Node.js web application framework.",
+    "creator": "TJ Holowaychuk",
+    "year": "2010"
+  },
+  {
+    "term": "Fetch API",
+    "definition": "A modern interface that allows you to make network requests similar to XMLHttpRequest.",
+    "creator": "WHATWG",
+    "year": "2015"
+  },
+  {
+    "term": "Figma",
+    "definition": "A web-based UI/UX design application.",
+    "creator": "Dylan Field and Evan Wallace",
+    "year": "2012"
+  },
+  {
+    "term": "File Transfer Protocol (FTP)",
+    "definition": "A standard network protocol used to transfer files from one host to another over a TCP-based network.",
+    "creator": "Abhay Bhushan",
+    "year": "1971"
+  },
+  {
+    "term": "Firebase",
+    "definition": "A platform developed by Google for creating mobile and web applications.",
+    "creator": "Firebase, Inc.",
+    "year": "2011"
+  },
+  {
+    "term": "Flask",
+    "definition": "A lightweight WSGI web application framework in Python.",
+    "creator": "Armin Ronacher",
+    "year": "2010"
+  },
+  {
+    "term": "Flatpak",
+    "definition": "A software utility for software virtualization and deployment.",
+    "creator": "Alexander Larsson",
+    "year": "2015"
+  },
+  {
+    "term": "Flutter",
+    "definition": "An open-source UI software development toolkit created by Google.",
+    "creator": "Google",
+    "year": "2017"
+  },
+  {
+    "term": "Flutter",
+    "definition": "An open-source UI software development toolkit created by Google.",
+    "creator": "Google",
+    "year": "2017"
+  },
+  {
+    "term": "Fork",
+    "definition": "A copy of a repository that allows you to make changes without affecting the original.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Function",
+    "definition": "A block of code designed to perform a particular task.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Functional Programming",
+    "definition": "A programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data.",
+    "creator": "John Backus",
+    "year": "1959"
+  },
+  {
     "term": "Garbage Collection",
     "definition": "An automatic memory management process that deallocates memory that is no longer in use.",
     "creator": "John McCarthy",
     "year": "1959"
+  },
+  {
+    "term": "Gatsby",
+    "definition": "A React-based open-source framework for creating websites and apps.",
+    "creator": "Kyle Mathews",
+    "year": "2015"
+  },
+  {
+    "term": "Generative Adversarial Network",
+    "definition": "A class of machine learning frameworks designed by Ian Goodfellow and his colleagues in 2014.",
+    "creator": "Ian Goodfellow",
+    "year": "2014"
+  },
+  {
+    "term": "Generative Pre-trained Transformer (GPT)",
+    "definition": "A type of large language model developed by OpenAI.",
+    "creator": "OpenAI",
+    "year": "2018"
+  },
+  {
+    "term": "Git",
+    "definition": "A distributed version control system for tracking changes in source code during software development.",
+    "creator": "Linus Torvalds",
+    "year": "2005"
+  },
+  {
+    "term": "Go",
+    "definition": "Also known as Golang in informal contexts. An open source programming language that makes it easy to build simple, reliable, and efficient software.",
+    "creator": "Robert Griesemer, Rob Pike, and Ken Thompson",
+    "year": "2009"
+  },
+  {
+    "term": "Google Cloud",
+    "definition": "A suite of cloud computing services that runs on the same infrastructure that Google uses internally.",
+    "creator": "Google",
+    "year": "2008"
+  },
+  {
+    "term": "Gradient Descent",
+    "definition": "An iterative optimization algorithm used to minimize a function by adjusting parameters in the opposite direction of the gradient.",
+    "creator": "Augustin-Louis Cauchy",
+    "year": "1847"
+  },
+  {
+    "term": "GraphQL",
+    "definition": "A query language for APIs and a runtime for fulfilling those queries with your existing data.",
+    "creator": "Facebook",
+    "year": "2012"
+  },
+  {
+    "term": "Graphical User Interface (GUI)",
+    "definition": "A visual way to interact with a computer program using graphical elements.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Hook",
+    "definition": "A function that allows you to tap into the lifecycle of a component or application.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Hydrate (Software)",
+    "definition": "The process of populating a component with data after it has been rendered.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Hypertext Markup Language (HTML)",
+    "definition": "The standard markup language for documents designed to be displayed in a web browser.",
+    "creator": "Tim Berners-Lee",
+    "year": "1993"
+  },
+  {
+    "term": "Hypertext Transfer Protocol (HTTP)",
+    "definition": "An application protocol for distributed, collaborative, hypermedia information systems.",
+    "creator": "Tim Berners-Lee",
+    "year": "1991"
+  },
+  {
+    "term": "Hypertext Transfer Protocol Secure (HTTPS)",
+    "definition": "An extension of HTTP that uses SSL/TLS to provide secure communication.",
+    "creator": "Tim Berners-Lee",
+    "year": "1994"
+  },
+  {
+    "term": "Image (Software)",
+    "definition": "A file that contains a complete copy of a file system or application.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Integrated Development Environment (IDE)",
+    "definition": "A software application that provides comprehensive facilities to programmers for software development.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Internet Message Access Protocol (IMAP)",
+    "definition": "A protocol for accessing email on a remote web server from a local client.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Internet Protocol (IP)",
+    "definition": "The principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries.",
+    "creator": "Vint Cerf and Bob Kahn",
+    "year": "1974"
+  },
+  {
+    "term": "Interpreter",
+    "definition": "A program that directly executes instructions written in a programming language.",
+    "creator": "John McCarthy",
+    "year": "1958"
+  },
+  {
+    "term": "Interpreter",
+    "definition": "A program that directly executes instructions written in a programming language.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "JSX",
+    "definition": "A syntax extension for JavaScript that allows you to write HTML-like code in your JavaScript files.",
+    "creator": "React Team",
+    "year": "2013"
+  },
+  {
+    "term": "Java",
+    "definition": "A high-level, class-based, object-oriented programming language.",
+    "creator": "James Gosling",
+    "year": "1995"
+  },
+  {
+    "term": "JavaScript Object Notation (JSON)",
+    "definition": "A lightweight data interchange format that is easy for humans to read and write.",
+    "creator": "Douglas Crockford",
+    "year": "2001"
+  },
+  {
+    "term": "K9s",
+    "definition": "A terminal-based UI to interact with your Kubernetes clusters.",
+    "creator": "Derailed",
+    "year": "2018"
+  },
+  {
+    "term": "Kernel",
+    "definition": "The core component of an operating system that manages system resources and communication between hardware and software.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Kotlin",
+    "definition": "A modern programming language that makes developers happier.",
+    "creator": "JetBrains",
+    "year": "2011"
+  },
+  {
+    "term": "Kubernetes",
+    "definition": "An open-source system for automating the deployment, scaling, and management of containerized applications.",
+    "creator": "Google",
+    "year": "2014"
+  },
+  {
+    "term": "Laravel",
+    "definition": "A PHP framework for web artisans.",
+    "creator": "Taylor Otwell",
+    "year": "2011"
+  },
+  {
+    "term": "Large Language Model (LLM)",
+    "definition": "A type of artificial intelligence that uses deep learning to understand and generate human language.",
+    "creator": "OpenAI",
+    "year": "2020"
+  },
+  {
+    "term": "Linux",
+    "definition": "A family of open-source Unix-like operating systems based on the Linux kernel.",
+    "creator": "Linus Torvalds",
+    "year": "1991"
+  },
+  {
+    "term": "Linux Distribution",
+    "definition": "An operating system made from a software collection that is based on the Linux kernel.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Local",
+    "definition": "A version of a repository that is stored on your local machine.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "MAC Address",
+    "definition": "A unique identifier assigned to network interfaces for communications on the physical network segment.",
+    "creator": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "year": "1980"
+  },
+  {
+    "term": "Machine Code",
+    "definition": "A set of instructions executed directly by a computer's CPU.",
+    "creator": "John von Neumann",
+    "year": "1945"
+  },
+  {
+    "term": "Machine Language",
+    "definition": "The lowest-level programming language, consisting of binary code that the computer's CPU can directly execute.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Machine Learning",
+    "definition": "A field of computer science that uses statistical techniques to give computer systems the ability to 'learn' from data.",
+    "creator": "Arthur Samuel",
+    "year": "1959"
+  },
+  {
+    "term": "Makefile",
+    "definition": "A file containing a set of directives used with the make build automation tool to generate a target/goal.",
+    "creator": "Stuart Feldman",
+    "year": "1976"
+  },
+  {
+    "term": "Material",
+    "definition": "A design system created by Google for building user interfaces.",
+    "creator": "Google",
+    "year": "2014"
+  },
+  {
+    "term": "Material UI",
+    "definition": "A popular React UI framework that implements Google's Material Design.",
+    "creator": "MUI Team",
+    "year": "2014"
+  },
+  {
+    "term": "Merge",
+    "definition": "An operation that combines changes from different branches in a version control system.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Message Queuing Telemetry Transport (MQTT)",
+    "definition": "A lightweight messaging protocol for small sensors and mobile devices optimized for high-latency or unreliable networks.",
+    "creator": "Andy Stanford-Clark and Arlen Nipper",
+    "year": "1999"
+  },
+  {
+    "term": "Method",
+    "definition": "A function that is a property of an object.",
+    "creator": "",
+    "year": ""
   },
   {
     "term": "Middleware",
@@ -1116,14 +672,146 @@
     "year": ""
   },
   {
-    "term": "Reducer",
-    "definition": "A function that takes the current state and an action as arguments and returns a new state.",
+    "term": "Model (Software)",
+    "definition": "A data structure that represents the data in an application.",
     "creator": "",
     "year": ""
   },
   {
-    "term": "State",
-    "definition": "The data that represents the current condition of an application.",
+    "term": "MongoDB",
+    "definition": "A document-oriented NoSQL database used for high volume data storage.",
+    "creator": "Dwight Merriman, Eliot Horowitz, and Kevin Ryan",
+    "year": "2007"
+  },
+  {
+    "term": "Mosquito",
+    "definition": "An open-source message broker that implements the MQTT protocol.",
+    "creator": "Eclipse Foundation",
+    "year": "2013"
+  },
+  {
+    "term": "MySQL",
+    "definition": "An open-source relational database management system based on SQL.",
+    "creator": "Michael 'Monty' Widenius",
+    "year": "1995"
+  },
+  {
+    "term": "NFT",
+    "definition": "A non-fungible token is a unique digital asset verified using blockchain technology.",
+    "creator": "Kevin McCoy",
+    "year": "2014"
+  },
+  {
+    "term": "Natural Language Processing",
+    "definition": "A subfield of artificial intelligence that focuses on the interaction between computers and humans through natural language.",
+    "creator": "Alan Turing",
+    "year": "1950"
+  },
+  {
+    "term": "Neural Network",
+    "definition": "A series of algorithms that attempt to recognize underlying relationships in a set of data.",
+    "creator": "Frank Rosenblatt",
+    "year": "1958"
+  },
+  {
+    "term": "Next.js",
+    "definition": "A React framework for server-rendered applications.",
+    "creator": "Vercel",
+    "year": "2016"
+  },
+  {
+    "term": "Next.js",
+    "definition": "A React framework for server-rendered applications.",
+    "creator": "Vercel",
+    "year": "2016"
+  },
+  {
+    "term": "NoSQL",
+    "definition": "A class of database management systems that do not follow the traditional relational database model.",
+    "creator": "Carl Stroz",
+    "year": "1998"
+  },
+  {
+    "term": "Node (Software)",
+    "definition": "An instance of a running application or service in a cluster.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Node Package Manager (NPM)",
+    "definition": "A package manager for JavaScript, allowing you to install and manage packages.",
+    "creator": "Isaac Z. Schlueter",
+    "year": "2010"
+  },
+  {
+    "term": "Node Version Manager (NVM)",
+    "definition": "A version manager for Node.js, allowing you to manage multiple versions of Node.js.",
+    "creator": "Tim Caswell",
+    "year": "2010"
+  },
+  {
+    "term": "Node.js",
+    "definition": "A JavaScript runtime built on Chrome's V8 JavaScript engine.",
+    "creator": "Ryan Dahl",
+    "year": "2009"
+  },
+  {
+    "term": "Nuxt.js",
+    "definition": "A framework based on Vue.js for building server-rendered applications.",
+    "creator": "Alexandre Chopin",
+    "year": "2016"
+  },
+  {
+    "term": "Object Oriented Programming (OOP)",
+    "definition": "A programming paradigm based on the concept of 'objects', which can contain data and code.",
+    "creator": "Alan Kay",
+    "year": "1966"
+  },
+  {
+    "term": "Object Relational Mapper (ORM)",
+    "definition": "A programming technique for converting data between incompatible type systems in object-oriented programming languages.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Objective-C",
+    "definition": "A general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language.",
+    "creator": "Brad Cox and Tom Love",
+    "year": "1984"
+  },
+  {
+    "term": "PHP",
+    "definition": "A popular general-purpose scripting language that is especially suited to web development.",
+    "creator": "Rasmus Lerdorf",
+    "year": "1994"
+  },
+  {
+    "term": "Package",
+    "definition": "A bundle of code and resources that can be installed and used in a project.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Post Office Protocol (POP)",
+    "definition": "A protocol for receiving email by downloading it to your computer.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "PostgreSQL",
+    "definition": "An open-source relational database management system emphasizing extensibility and SQL compliance.",
+    "creator": "Michael Stonebraker",
+    "year": "1986"
+  },
+  {
+    "term": "Prisma",
+    "definition": "An open-source database toolkit that simplifies database access and management.",
+    "creator": "Prisma Labs",
+    "year": "2018"
+  },
+  {
+    "term": "Promise",
+    "definition": "An object representing the eventual completion or failure of an asynchronous operation.",
     "creator": "",
     "year": ""
   },
@@ -1134,28 +822,34 @@
     "year": ""
   },
   {
-    "term": "Component",
-    "definition": "A reusable piece of code that represents a part of the user interface in a React application.",
+    "term": "Protocol (Software)",
+    "definition": "A set of rules or standards that define how data is transmitted and received over a network.",
     "creator": "",
     "year": ""
   },
   {
-    "term": "Cascading Style Sheets (CSS)",
-    "definition": "A style sheet language used for describing the presentation of a document written in HTML or XML.",
-    "creator": "H\u00e5kon Wium Lie and Bert Bos",
-    "year": "1996"
+    "term": "Pull Request",
+    "definition": "A request to merge changes from one branch into another in a version control system.",
+    "creator": "",
+    "year": ""
   },
   {
-    "term": "JSX",
-    "definition": "A syntax extension for JavaScript that allows you to write HTML-like code in your JavaScript files.",
-    "creator": "React Team",
-    "year": "2013"
+    "term": "Python",
+    "definition": "A high-level programming language known for its readability and simplicity.",
+    "creator": "Guido van Rossum",
+    "year": "1991"
   },
   {
-    "term": "TSX",
-    "definition": "A syntax extension for TypeScript that allows you to write HTML-like code in your TypeScript files.",
-    "creator": "React Team",
-    "year": "2013"
+    "term": "Qt",
+    "definition": "A free and open-source widget toolkit for creating graphical user interfaces as well as cross-platform applications.",
+    "creator": "Trolltech",
+    "year": "1991"
+  },
+  {
+    "term": "Qt Creator",
+    "definition": "An integrated development environment designed to make development with the Qt application framework easy and efficient.",
+    "creator": "The Qt Company",
+    "year": "2009"
   },
   {
     "term": "Qt Designer",
@@ -1164,10 +858,316 @@
     "year": "2009"
   },
   {
-    "term": "Android Studio",
-    "definition": "An integrated development environment for Google's Android operating system.",
-    "creator": "Google",
+    "term": "RISC-V",
+    "definition": "An open standard instruction set architecture based on established reduced instruction set computing principles.",
+    "creator": "RISC-V Foundation",
+    "year": "2010"
+  },
+  {
+    "term": "React",
+    "definition": "A JavaScript library for building user interfaces.",
+    "creator": "Facebook",
     "year": "2013"
+  },
+  {
+    "term": "React Context",
+    "definition": "A React API that allows you to pass data through the component tree without having to pass props down manually at every level.",
+    "creator": "React Team",
+    "year": "2013"
+  },
+  {
+    "term": "React Native",
+    "definition": "A framework for building native applications using React.",
+    "creator": "Facebook",
+    "year": "2015"
+  },
+  {
+    "term": "React Query",
+    "definition": "A library for fetching, caching, and updating data in React applications.",
+    "creator": "TanStack",
+    "year": "2018"
+  },
+  {
+    "term": "Recursion",
+    "definition": "A programming technique where a function calls itself in order to solve a problem.",
+    "creator": "John McCarthy",
+    "year": "1958"
+  },
+  {
+    "term": "Redis",
+    "definition": "An open-source, in-memory data structure store, used as a database, cache, and message broker.",
+    "creator": "Salvatore Sanfilippo",
+    "year": "2009"
+  },
+  {
+    "term": "Reducer",
+    "definition": "A function that takes the current state and an action as arguments and returns a new state.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Redux",
+    "definition": "A predictable state container for JavaScript apps.",
+    "creator": "Dan Abramov and Andrew Clark",
+    "year": "2015"
+  },
+  {
+    "term": "Reinforcement Learning",
+    "definition": "An area of machine learning concerned with how software agents ought to take actions in an environment to maximize some notion of cumulative reward.",
+    "creator": "Richard Sutton and Andrew Barto",
+    "year": "1998"
+  },
+  {
+    "term": "Remote",
+    "definition": "A version of a repository that is hosted on a server.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Render (Software)",
+    "definition": "The process of generating an image from a model by means of computer programs.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Repository",
+    "definition": "A storage location for software packages, code, or data.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Representational State Transfer (REST)",
+    "definition": "An architectural style for designing networked applications.",
+    "creator": "Roy Fielding",
+    "year": "2000"
+  },
+  {
+    "term": "Ruby",
+    "definition": "A dynamic, open source programming language with a focus on simplicity and productivity.",
+    "creator": "Yukihiro Matsumoto",
+    "year": "1995"
+  },
+  {
+    "term": "Ruby on Rails",
+    "definition": "A server-side web application framework written in Ruby.",
+    "creator": "David Heinemeier Hansson",
+    "year": "2004"
+  },
+  {
+    "term": "Rust",
+    "definition": "A systems programming language focused on safety, speed, and concurrency.",
+    "creator": "Graydon Hoare",
+    "year": "2010"
+  },
+  {
+    "term": "S3",
+    "definition": "Amazon Simple Storage Service, an object storage service offered by Amazon Web Services.",
+    "creator": "Amazon",
+    "year": "2006"
+  },
+  {
+    "term": "Script",
+    "definition": "A file containing code that is executed by a web browser or server.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Secure Sockets Layer (SSL)",
+    "definition": "A standard security technology for establishing an encrypted link between a server and a client.",
+    "creator": "Netscape",
+    "year": "1994"
+  },
+  {
+    "term": "Server-Side Rendering (SSR)",
+    "definition": "A method of rendering web pages on the server instead of in the browser.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Service Set Identifier (SSID)",
+    "definition": "A unique identifier that sets up a wireless local area network.",
+    "creator": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "year": "1997"
+  },
+  {
+    "term": "Shell",
+    "definition": "A user interface for access to an operating system's services.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Simple Mail Transfer Protocol (SMTP)",
+    "definition": "An Internet standard for email transmission.",
+    "creator": "Jon Postel",
+    "year": "1982"
+  },
+  {
+    "term": "Smart Contract",
+    "definition": "A self-executing contract with the terms of the agreement directly written into lines of code.",
+    "creator": "Nick Szabo",
+    "year": "1994"
+  },
+  {
+    "term": "Snap",
+    "definition": "A package format for distributing software on Linux.",
+    "creator": "Canonical Ltd.",
+    "year": "2016"
+  },
+  {
+    "term": "Solidity",
+    "definition": "A contract-oriented programming language for writing smart contracts on the Ethereum blockchain.",
+    "creator": "Christian Reitwiessner",
+    "year": "2014"
+  },
+  {
+    "term": "Source Code",
+    "definition": "The human-readable instructions that a programmer writes in a programming language.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Spring",
+    "definition": "A powerful framework for building Java applications.",
+    "creator": "Rod Johnson",
+    "year": "2003"
+  },
+  {
+    "term": "SpringBoot",
+    "definition": "A Java-based framework used to create stand-alone, production-grade Spring-based applications.",
+    "creator": "Pivotal Software",
+    "year": "2014"
+  },
+  {
+    "term": "Staging Area",
+    "definition": "An intermediate area where changes are prepared before being committed to the repository.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "State",
+    "definition": "The data that represents the current condition of an application.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Static Site Generation (SSG)",
+    "definition": "A method of generating static HTML pages at build time.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Structured Query Language (SQL)",
+    "definition": "A domain-specific language used in programming and managing relational databases.",
+    "creator": "Donald D. Chamberlin and Raymond F. Boyce",
+    "year": "1974"
+  },
+  {
+    "term": "Svelte",
+    "definition": "A modern JavaScript framework for building user interfaces.",
+    "creator": "Rich Harris",
+    "year": "2016"
+  },
+  {
+    "term": "Swift",
+    "definition": "A powerful and intuitive programming language for iOS, macOS, watchOS, and tvOS.",
+    "creator": "Apple",
+    "year": "2014"
+  },
+  {
+    "term": "SwiftUI",
+    "definition": "A user interface toolkit that lets you design apps in a declarative way.",
+    "creator": "Apple",
+    "year": "2019"
+  },
+  {
+    "term": "TSX",
+    "definition": "A syntax extension for TypeScript that allows you to write HTML-like code in your TypeScript files.",
+    "creator": "React Team",
+    "year": "2013"
+  },
+  {
+    "term": "Tailwind CSS",
+    "definition": "A utility-first CSS framework for creating custom designs.",
+    "creator": "Adam Wathan and Steve Schoger",
+    "year": "2017"
+  },
+  {
+    "term": "Tauri",
+    "definition": "A framework for building smaller, faster binaries for all major desktop platforms.",
+    "creator": "Tauri Team",
+    "year": "2020"
+  },
+  {
+    "term": "TensorFlow",
+    "definition": "An open-source library for numerical computation and machine learning.",
+    "creator": "Google Brain Team",
+    "year": "2015"
+  },
+  {
+    "term": "Text Editor",
+    "definition": "A type of computer program that edits plain text.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Thunk",
+    "definition": "A middleware that allows you to write action creators that return a function instead of an action.",
+    "creator": "Dan Abramov",
+    "year": "2015"
+  },
+  {
+    "term": "Thunk Creator",
+    "definition": "A function that returns a function, allowing you to perform asynchronous actions in Redux.",
+    "creator": "Dan Abramov",
+    "year": "2015"
+  },
+  {
+    "term": "Transfer Learning",
+    "definition": "A machine learning technique where a model developed for a task is reused as the starting point for a model on a second task.",
+    "creator": "Yosinski et al.",
+    "year": "2014"
+  },
+  {
+    "term": "Transmission Control Protocol (TCP)",
+    "definition": "A core protocol of the Internet Protocol Suite.",
+    "creator": "Vint Cerf and Bob Kahn",
+    "year": "1974"
+  },
+  {
+    "term": "Transport Layer Security (TLS)",
+    "definition": "A cryptographic protocol designed to provide communications security over a computer network.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "TypeScript",
+    "definition": "A strict syntactical superset of JavaScript that adds optional static typing.",
+    "creator": "Microsoft",
+    "year": "2012"
+  },
+  {
+    "term": "Unix",
+    "definition": "A family of multitasking, multiuser computer operating systems.",
+    "creator": "Ken Thompson, Dennis Ritchie, and others",
+    "year": "1969"
+  },
+  {
+    "term": "Vercel",
+    "definition": "A cloud platform for static sites and serverless functions.",
+    "creator": "Vercel",
+    "year": "2016"
+  },
+  {
+    "term": "Version Control",
+    "definition": "A system that records changes to a file or set of files over time.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Virtual Machine (VM)",
+    "definition": "A software emulation of a physical computer that runs an operating system and applications.",
+    "creator": "IBM",
+    "year": "1972"
   },
   {
     "term": "Visual Studio Code",
@@ -1176,28 +1176,40 @@
     "year": "2015"
   },
   {
-    "term": "Node.js",
-    "definition": "A JavaScript runtime built on Chrome's V8 JavaScript engine.",
-    "creator": "Ryan Dahl",
-    "year": "2009"
+    "term": "Vue.js",
+    "definition": "A progressive JavaScript framework for building user interfaces.",
+    "creator": "Evan You",
+    "year": "2014"
   },
   {
-    "term": "Docker",
-    "definition": "A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.",
-    "creator": "Solomon Hykes",
-    "year": "2013"
+    "term": "WebAssembly",
+    "definition": "A binary instruction format for a stack-based virtual machine.",
+    "creator": "W3C",
+    "year": "2017"
   },
   {
-    "term": "Kubernetes",
-    "definition": "An open-source system for automating the deployment, scaling, and management of containerized applications.",
+    "term": "WebRTC",
+    "definition": "An open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces.",
     "creator": "Google",
-    "year": "2014"
+    "year": "2011"
   },
   {
-    "term": "Babel",
-    "definition": "A JavaScript compiler that allows you to use next generation JavaScript, today.",
-    "creator": "Sebastian McKenzie",
-    "year": "2014"
+    "term": "WebRTC",
+    "definition": "An open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces.",
+    "creator": "Google",
+    "year": "2011"
+  },
+  {
+    "term": "WebSocket",
+    "definition": "A computer communications protocol, providing full-duplex communication channels over a single TCP connection.",
+    "creator": "IETF",
+    "year": "2011"
+  },
+  {
+    "term": "WebSocket",
+    "definition": "A computer communications protocol, providing full-duplex communication channels over a single TCP connection.",
+    "creator": "IETF",
+    "year": "2011"
   },
   {
     "term": "Webpack",
@@ -1206,10 +1218,10 @@
     "year": "2012"
   },
   {
-    "term": "Node Package Manager (NPM)",
-    "definition": "A package manager for JavaScript, allowing you to install and manage packages.",
-    "creator": "Isaac Z. Schlueter",
-    "year": "2010"
+    "term": "YAML",
+    "definition": "YAML Ain't Markup Language, a human-readable data serialization format.",
+    "creator": "Clark Evans, Ingy d\u00f6t Net, and Oren Ben-Kiki",
+    "year": "2001"
   },
   {
     "term": "Yarn",
@@ -1218,33 +1230,21 @@
     "year": "2016"
   },
   {
-    "term": "Node Version Manager (NVM)",
-    "definition": "A version manager for Node.js, allowing you to manage multiple versions of Node.js.",
-    "creator": "Tim Caswell",
-    "year": "2010"
+    "term": "Z Shell (zsh)",
+    "definition": "An extended Bourne shell with many improvements.",
+    "creator": "Paul Falstad",
+    "year": "1990"
   },
   {
-    "term": "Git",
-    "definition": "A distributed version control system for tracking changes in source code during software development.",
-    "creator": "Linus Torvalds",
-    "year": "2005"
+    "term": "jQuery",
+    "definition": "A fast, small, and feature-rich JavaScript library.",
+    "creator": "John Resig",
+    "year": "2006"
   },
   {
-    "term": "Debugger",
-    "definition": "A tool used to test and debug programs.",
-    "creator": "",
-    "year": ""
-  },
-  {
-    "term": "CMake",
-    "definition": "A cross-platform free and open-source software for managing the build process of software using a compiler-independent method.",
-    "creator": "Kitware",
-    "year": "2000"
-  },
-  {
-    "term": "K9s",
-    "definition": "A terminal-based UI to interact with your Kubernetes clusters.",
-    "creator": "Derailed",
-    "year": "2018"
+    "term": "x86",
+    "definition": "A family of instruction set architectures based on the Intel 8086 microprocessor.",
+    "creator": "Intel",
+    "year": "1978"
   }
 ]
