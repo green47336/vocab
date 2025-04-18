@@ -17,7 +17,18 @@ const VocabViewer = () => {
   };
 
   return (
-    <div style={{ fontFamily: "Arial, sans-serif", padding: "20px" }}>
+    <div
+      style={{
+        fontFamily: "Arial, sans-serif",
+        padding: "20px",
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
+        height: "100vh",
+        textAlign: "center",
+      }}
+    >
       <h1>Vocab Viewer</h1>
       <div
         onClick={handleTermClick}
@@ -27,20 +38,21 @@ const VocabViewer = () => {
           border: "1px solid #ccc",
           borderRadius: "5px",
           marginBottom: "10px",
+          width: "300px",
         }}
       >
         <strong>{currentTerm.term}</strong>
       </div>
       {showDetails && (
-        <div style={{ marginBottom: "10px" }}>
+        <div style={{ marginBottom: "10px", width: "300px" }}>
           <p>
             <strong>Definition:</strong> {currentTerm.definition}
           </p>
           <p>
-            <strong>Creator:</strong> {currentTerm.creator || "Unknown"}
+            <strong>Creator:</strong> {currentTerm.creator || ""}
           </p>
           <p>
-            <strong>Year:</strong> {currentTerm.year || "Unknown"}
+            <strong>Year:</strong> {currentTerm.year || ""}
           </p>
         </div>
       )}
