@@ -12,6 +12,12 @@
     "year": "1983"
   },
   {
+    "term": "Agile",
+    "definition": "A set of principles for software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams.",
+    "creator": "Agile Alliance",
+    "year": "2001"
+  },
+  {
     "term": "Amazon Web Services (AWS)",
     "definition": "A subsidiary of Amazon providing on-demand cloud computing platforms and APIs.",
     "creator": "Amazon",
@@ -146,7 +152,7 @@
   {
     "term": "Cascading Style Sheets (CSS)",
     "definition": "A style sheet language used for describing the presentation of a document written in HTML or XML.",
-    "creator": "Håkon Wium Lie and Bert Bos",
+    "creator": "H\u00e5kon Wium Lie and Bert Bos",
     "year": "1996"
   },
   {
@@ -224,6 +230,12 @@
   {
     "term": "Content Delivery Network (CDN)",
     "definition": "A system of distributed servers that deliver web content to users based on their geographic location.",
+    "creator": "",
+    "year": ""
+  },
+  {
+    "term": "Continuous Integration and Continuous Deployment (CI/CD)",
+    "definition": "A set of practices that enable development teams to deliver code changes more frequently and reliably.",
     "creator": "",
     "year": ""
   },
@@ -534,6 +546,12 @@
     "year": ""
   },
   {
+    "term": "JSON Web Token (JWT)",
+    "definition": "A compact, URL-safe means of representing claims to be transferred between two parties.",
+    "creator": "JWT.io",
+    "year": "2015"
+  },
+  {
     "term": "JSX",
     "definition": "A syntax extension for JavaScript that allows you to write HTML-like code in your JavaScript files.",
     "creator": "React Team",
@@ -552,10 +570,28 @@
     "year": "2001"
   },
   {
+    "term": "Jenkins",
+    "definition": "An open-source automation server that enables developers to build, test, and deploy their software.",
+    "creator": "Kohsuke Kawaguchi",
+    "year": "2011"
+  },
+  {
+    "term": "Jira",
+    "definition": "A proprietary issue tracking product developed by Atlassian.",
+    "creator": "Atlassian",
+    "year": "2002"
+  },
+  {
     "term": "K9s",
     "definition": "A terminal-based UI to interact with your Kubernetes clusters.",
     "creator": "Derailed",
     "year": "2018"
+  },
+  {
+    "term": "Kanban",
+    "definition": "A visual system for managing work as it moves through a process.",
+    "creator": "Taiichi Ohno",
+    "year": "1940s"
   },
   {
     "term": "Kernel",
@@ -666,6 +702,12 @@
     "year": ""
   },
   {
+    "term": "Microservice",
+    "definition": "An architectural style that structures an application as a collection of loosely coupled services.",
+    "creator": "Martin Fowler",
+    "year": "2014"
+  },
+  {
     "term": "Middleware",
     "definition": "Software that acts as a bridge between an operating system or database and applications, especially on a network.",
     "creator": "",
@@ -762,6 +804,12 @@
     "year": "2016"
   },
   {
+    "term": "OAuth",
+    "definition": "An open standard for access delegation commonly used for token-based authentication.",
+    "creator": "Evan Prodromou, Blaine Cook, and others",
+    "year": "2006"
+  },
+  {
     "term": "Object Oriented Programming (OOP)",
     "definition": "A programming paradigm based on the concept of 'objects', which can contain data and code.",
     "creator": "Alan Kay",
@@ -778,6 +826,12 @@
     "definition": "A general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language.",
     "creator": "Brad Cox and Tom Love",
     "year": "1984"
+  },
+  {
+    "term": "Oh My Zsh",
+    "definition": "A community-driven framework for managing Zsh configuration.",
+    "creator": "Robby Russell",
+    "year": "2009"
   },
   {
     "term": "PHP",
@@ -972,6 +1026,12 @@
     "year": ""
   },
   {
+    "term": "Scrum",
+    "definition": "An agile framework for managing complex projects.",
+    "creator": "Jeff Sutherland and Ken Schwaber",
+    "year": "1995"
+  },
+  {
     "term": "Secure Sockets Layer (SSL)",
     "definition": "A standard security technology for establishing an encrypted link between a server and a client.",
     "creator": "Netscape",
@@ -1054,6 +1114,18 @@
     "definition": "A method of generating static HTML pages at build time.",
     "creator": "",
     "year": ""
+  },
+  {
+    "term": "Storybook",
+    "definition": "An open-source tool for developing UI components in isolation for React, Vue, and Angular.",
+    "creator": "Storybook Team",
+    "year": "2016"
+  },
+  {
+    "term": "Strapi",
+    "definition": "An open-source headless CMS that gives developers the freedom to use their favorite tools and frameworks.",
+    "creator": "Strapi Team",
+    "year": "2016"
   },
   {
     "term": "Structured Query Language (SQL)",
@@ -1140,6 +1212,18 @@
     "year": ""
   },
   {
+    "term": "Travis CI",
+    "definition": "A continuous integration service used to build and test software projects hosted on GitHub.",
+    "creator": "Travis CI GmbH",
+    "year": "2011"
+  },
+  {
+    "term": "Trello",
+    "definition": "A web-based Kanban-style list-making application.",
+    "creator": "Fog Creek Software",
+    "year": "2011"
+  },
+  {
     "term": "TypeScript",
     "definition": "A strict syntactical superset of JavaScript that adds optional static typing.",
     "creator": "Microsoft",
@@ -1218,9 +1302,15 @@
     "year": "2012"
   },
   {
+    "term": "XML",
+    "definition": "A markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.",
+    "creator": "World Wide Web Consortium (W3C)",
+    "year": "1998"
+  },
+  {
     "term": "YAML",
     "definition": "YAML Ain't Markup Language, a human-readable data serialization format.",
-    "creator": "Clark Evans, Ingy döt Net, and Oren Ben-Kiki",
+    "creator": "Clark Evans, Ingy d\u00f6t Net, and Oren Ben-Kiki",
     "year": "2001"
   },
   {
@@ -1230,8 +1320,8 @@
     "year": "2016"
   },
   {
-    "term": "Z Shell (zsh)",
-    "definition": "An extended Bourne shell with many improvements.",
+    "term": "Z shell (Zsh)",
+    "definition": "A UNIX command interpreter (shell) which of the standard shells most resembles the Korn shell (ksh).",
     "creator": "Paul Falstad",
     "year": "1990"
   },
@@ -1246,5 +1336,11 @@
     "definition": "A family of instruction set architectures based on the Intel 8086 microprocessor.",
     "creator": "Intel",
     "year": "1978"
+  },
+  {
+    "term": "x86-64",
+    "definition": "An extension of the x86 architecture that supports 64-bit computing.",
+    "creator": "AMD",
+    "year": "2003"
   }
 ]
