@@ -1,5 +1,5 @@
 import React from "react";
-import VocabViewer from "./src/components/VocabViewer";
+import VocabViewer from "./components/VocabViewer";
 
 const App = () => {
   return (
